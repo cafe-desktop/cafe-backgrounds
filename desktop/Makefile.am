@@ -1,11 +1,11 @@
 backgrounddir = $(datadir)/backgrounds/cafe/desktop
 
 background_DATA = \
-	Float-into-MATE.png \
+	Float-into-CAFE.png \
 	GreenTraditional.jpg \
 	Stripes.png \
-	MATE-Stripes-Dark.png \
-	MATE-Stripes-Light.png \
+	CAFE-Stripes-Dark.png \
+	CAFE-Stripes-Light.png \
 	Ubuntu-Cafe-Cold-no-logo.png \
 	Ubuntu-Cafe-Dark-no-logo.png \
 	Ubuntu-Cafe-Radioactive-no-logo.png \

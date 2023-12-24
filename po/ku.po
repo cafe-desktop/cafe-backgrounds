@@ -16,20 +16,20 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: branded/cafe-branded.xml.in.in.h:1
-msgid "Aqua Foot (MATE Branded)"
-msgstr "Aqua Pê (Bî Logoya MATE)"
+msgid "Aqua Foot (CAFE Branded)"
+msgstr "Aqua Pê (Bî Logoya CAFE)"
 
 #: branded/cafe-branded.xml.in.in.h:2
-msgid "Fraser Island (MATE Branded)"
-msgstr "Adaya Fraser (Bî Logoya MATE)"
+msgid "Fraser Island (CAFE Branded)"
+msgstr "Adaya Fraser (Bî Logoya CAFE)"
 
 #: branded/cafe-branded.xml.in.in.h:3
-msgid "Red Blurred (MATE Branded)"
-msgstr "Reþberîya Sor (Bî Logoya MATE)"
+msgid "Red Blurred (CAFE Branded)"
+msgstr "Reþberîya Sor (Bî Logoya CAFE)"
 
 #: branded/cafe-branded.xml.in.in.h:4
-msgid "Weird Colors (MATE Branded)"
-msgstr "Rengên Tevlhevkîrî (Bî Logoya MATE)"
+msgid "Weird Colors (CAFE Branded)"
+msgstr "Rengên Tevlhevkîrî (Bî Logoya CAFE)"
 
 #: tiles/cafe-tiles.xml.in.in.h:1
 msgid "Alien Artifact (Translucent Tile)"

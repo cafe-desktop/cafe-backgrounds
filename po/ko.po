@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR MATE Desktop Environment team
+# Copyright (C) YEAR CAFE Desktop Environment team
 # This file is distributed under the same license as the cafe-backgrounds package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -50,7 +50,7 @@ msgid "No Desktop Background"
 msgstr "배경화면 없음"
 
 #: desktop/cafe-desktop.xml.in.in:13
-msgid "Float into MATE"
+msgid "Float into CAFE"
 msgstr "마테에 띄우기"
 
 #: desktop/cafe-desktop.xml.in.in:19
@@ -62,27 +62,27 @@ msgid "Stripes"
 msgstr "줄무늬"
 
 #: desktop/cafe-desktop.xml.in.in:34
-msgid "MATE Stripes Dark"
+msgid "CAFE Stripes Dark"
 msgstr "마테 줄무늬 어둔 색"
 
 #: desktop/cafe-desktop.xml.in.in:43
-msgid "MATE Stripes Light"
+msgid "CAFE Stripes Light"
 msgstr "마테 줄무늬 밝은 색"
 
 #: desktop/cafe-desktop.xml.in.in:52
-msgid "Ubuntu MATE Cold"
+msgid "Ubuntu CAFE Cold"
 msgstr "우분투 무테 콜드"
 
 #: desktop/cafe-desktop.xml.in.in:58
-msgid "Ubuntu MATE Dark"
+msgid "Ubuntu CAFE Dark"
 msgstr "우분투 마테 어둔 색"
 
 #: desktop/cafe-desktop.xml.in.in:64
-msgid "Ubuntu MATE Radioactive"
+msgid "Ubuntu CAFE Radioactive"
 msgstr "우분투 마테 방사선형"
 
 #: desktop/cafe-desktop.xml.in.in:70
-msgid "Ubuntu MATE Warm"
+msgid "Ubuntu CAFE Warm"
 msgstr "우분투 마테 따뜻한 색"
 
 #. Translators: This is the name of a desktop background image that shows an

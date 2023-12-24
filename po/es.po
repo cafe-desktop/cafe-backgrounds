@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR MATE Desktop Environment team
+# Copyright (C) YEAR CAFE Desktop Environment team
 # This file is distributed under the same license as the cafe-backgrounds package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -51,8 +51,8 @@ msgid "No Desktop Background"
 msgstr "Sin fondo de escritorio"
 
 #: desktop/cafe-desktop.xml.in.in:13
-msgid "Float into MATE"
-msgstr "Flotar en MATE"
+msgid "Float into CAFE"
+msgstr "Flotar en CAFE"
 
 #: desktop/cafe-desktop.xml.in.in:19
 msgid "Green Traditional"
@@ -63,28 +63,28 @@ msgid "Stripes"
 msgstr "Franjas"
 
 #: desktop/cafe-desktop.xml.in.in:34
-msgid "MATE Stripes Dark"
-msgstr "Franjas de MATE, oscuro"
+msgid "CAFE Stripes Dark"
+msgstr "Franjas de CAFE, oscuro"
 
 #: desktop/cafe-desktop.xml.in.in:43
-msgid "MATE Stripes Light"
-msgstr "Franjas de MATE, claro"
+msgid "CAFE Stripes Light"
+msgstr "Franjas de CAFE, claro"
 
 #: desktop/cafe-desktop.xml.in.in:52
-msgid "Ubuntu MATE Cold"
-msgstr "Ubuntu MATE, frío"
+msgid "Ubuntu CAFE Cold"
+msgstr "Ubuntu CAFE, frío"
 
 #: desktop/cafe-desktop.xml.in.in:58
-msgid "Ubuntu MATE Dark"
-msgstr "Ubuntu MATE, oscuro"
+msgid "Ubuntu CAFE Dark"
+msgstr "Ubuntu CAFE, oscuro"
 
 #: desktop/cafe-desktop.xml.in.in:64
-msgid "Ubuntu MATE Radioactive"
-msgstr "Ubuntu MATE, radioactivo"
+msgid "Ubuntu CAFE Radioactive"
+msgstr "Ubuntu CAFE, radioactivo"
 
 #: desktop/cafe-desktop.xml.in.in:70
-msgid "Ubuntu MATE Warm"
-msgstr "Ubuntu MATE, cálido"
+msgid "Ubuntu CAFE Warm"
+msgstr "Ubuntu CAFE, cálido"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
