@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<!DOCTYPE wallpapers SYSTEM "cafe-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
 	<!-- Translators: This is the name of a desktop background image that shows an orange/red flower.
 		You might want to translate it into the equivalent words of your language  -->
 		<name>Fresh Flower</name>
-		<filename>@datadir@/backgrounds/mate/nature/FreshFlower.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/nature/FreshFlower.jpg</filename>
 		<options>zoom</options>
 		<artist>Jens Ansorg</artist>
 	</wallpaper>
@@ -13,67 +13,67 @@
 		<!-- Translators: This is the name of a desktop background image that shows a green meadow.
 		  You might want to translate it into the equivalent words of your language  -->
 		<name>Green Meadow</name>
-		<filename>@datadir@/backgrounds/mate/nature/GreenMeadow.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/nature/GreenMeadow.jpg</filename>
 		<options>zoom</options>
 		<artist>Timothy Schellhase, Lapo Calamandrei</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Aqua</name>
-		<filename>@datadir@/backgrounds/mate/nature/Aqua.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/nature/Aqua.jpg</filename>
 		<options>zoom</options>
 		<artist>Charles Barbin</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Dune</name>
-		<filename>@datadir@/backgrounds/mate/nature/Dune.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/nature/Dune.jpg</filename>
 		<options>zoom</options>
 		<artist>Marco Cogoni, Hylke Bons</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Storm</name>
-		<filename>@datadir@/backgrounds/mate/nature/Storm.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/nature/Storm.jpg</filename>
 		<options>zoom</options>
 		<artist>Sergey Nazarov</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Two Wings</name>
-		<filename>@datadir@/backgrounds/mate/nature/TwoWings.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/nature/TwoWings.jpg</filename>
 		<options>zoom</options>
 		<artist>Charles Barbin, Hylke Bons</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Lady Bird</name>
-		<filename>@datadir@/backgrounds/mate/nature/LadyBird.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/nature/LadyBird.jpg</filename>
 		<options>zoom</options>
 		<artist>Charles Barbin</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Blinds</name>
-		<filename>@datadir@/backgrounds/mate/nature/Blinds.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/nature/Blinds.jpg</filename>
 		<options>zoom</options>
 		<artist>Lennart Poettering, Andrea Cimitan</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Rain Drops</name>
-		<filename>@datadir@/backgrounds/mate/nature/RainDrops.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/nature/RainDrops.jpg</filename>
 		<options>zoom</options>
 		<artist>blackcombwhistler07</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Yellow Flower</name>
-		<filename>@datadir@/backgrounds/mate/nature/YellowFlower.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/nature/YellowFlower.jpg</filename>
 		<options>zoom</options>
 		<artist>Charles Barbin</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Garden</name>
-		<filename>@datadir@/backgrounds/mate/nature/Garden.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/nature/Garden.jpg</filename>
 		<options>zoom</options>
 		<artist>Charles Barbin</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Wood</name>
-		<filename>@datadir@/backgrounds/mate/nature/Wood.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/nature/Wood.jpg</filename>
 		<options>zoom</options>
 		<artist>Jean-François Fortin Tam</artist>
 	</wallpaper>

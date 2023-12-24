@@ -1,4 +1,4 @@
-backgrounddir = $(datadir)/backgrounds/mate/abstract
+backgrounddir = $(datadir)/backgrounds/cafe/abstract
 
 background_DATA = \
 	Arc-Colors-Transparent-Wallpaper.png \
@@ -11,24 +11,24 @@ background_DATA = \
 	Elephants_3840x2160.jpg \
 	Elephants_5640x3172.jpg
 
-metadata_in_files = mate-abstract.xml.in
-metadatadir = $(datadir)/mate-background-properties
+metadata_in_files = cafe-abstract.xml.in
+metadatadir = $(datadir)/cafe-background-properties
 metadata_DATA = $(metadata_in_files:.xml.in=.xml)
 
 $(metadata_DATA): $(metadata_in_files)
 	$(AM_V_GEN) GETTEXTDATADIR=$(top_srcdir) $(MSGFMT) --xml --template $< -d $(top_srcdir)/po -o $@
 
-noinst_DATA = mate-abstract.xml.in
-CLEANFILES = mate-abstract.xml mate-abstract.xml.in
+noinst_DATA = cafe-abstract.xml.in
+CLEANFILES = cafe-abstract.xml cafe-abstract.xml.in
 
 EXTRA_DIST = \
 	$(background_DATA) \
-	mate-abstract.xml.in.in \
+	cafe-abstract.xml.in.in \
 	meson.build
 
-mate-abstract.xml.in: mate-abstract.xml.in.in Makefile
-	$(AM_V_GEN)sed -e 's^\@datadir\@^$(datadir)^g' < $(srcdir)/mate-abstract.xml.in.in > mate-abstract.xml.in.tmp \
-	&& mv mate-abstract.xml.in.tmp mate-abstract.xml.in
+cafe-abstract.xml.in: cafe-abstract.xml.in.in Makefile
+	$(AM_V_GEN)sed -e 's^\@datadir\@^$(datadir)^g' < $(srcdir)/cafe-abstract.xml.in.in > cafe-abstract.xml.in.tmp \
+	&& mv cafe-abstract.xml.in.tmp cafe-abstract.xml.in
 
 MAINTAINERCLEANFILES = \
 	Makefile.in

@@ -1,6 +1,6 @@
-AC_INIT([mate-backgrounds],
+AC_INIT([cafe-backgrounds],
 	[1.24.2],
-	[http://www.mate-desktop.org])
+	[http://www.cafe-desktop.org])
 m4_ifdef([AM_SILENT_RULES], [AM_SILENT_RULES([yes])])
 AM_INIT_AUTOMAKE([1.9 no-dist-gzip dist-xz tar-ustar check-news])
 
