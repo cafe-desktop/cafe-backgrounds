@@ -6,10 +6,10 @@ background_DATA = \
 	Stripes.png \
 	MATE-Stripes-Dark.png \
 	MATE-Stripes-Light.png \
-	Ubuntu-Mate-Cold-no-logo.png \
-	Ubuntu-Mate-Dark-no-logo.png \
-	Ubuntu-Mate-Radioactive-no-logo.png \
-	Ubuntu-Mate-Warm-no-logo.png
+	Ubuntu-Cafe-Cold-no-logo.png \
+	Ubuntu-Cafe-Dark-no-logo.png \
+	Ubuntu-Cafe-Radioactive-no-logo.png \
+	Ubuntu-Cafe-Warm-no-logo.png
 
 metadata_in_files = cafe-desktop.xml.in
 metadatadir = $(datadir)/cafe-background-properties
