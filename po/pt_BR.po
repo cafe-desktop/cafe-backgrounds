@@ -1,0 +1,141 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR MATE Desktop Environment team
+# This file is distributed under the same license as the mate-backgrounds package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Marcelo Ghelman <marcelo.ghelman@gmail.com>, 2020
+# Roger Araújo <roger.rf@gmail.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mate-backgrounds 1.23.0\n"
+"Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
+"POT-Creation-Date: 2019-11-06 12:38+0100\n"
+"PO-Revision-Date: 2020-02-15 12:57+0000\n"
+"Last-Translator: Roger Araújo <roger.rf@gmail.com>, 2020\n"
+"Language-Team: Portuguese (Brazil) (https://www.transifex.com/mate/teams/13566/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. From http://code.google.com/p/gnome-colors/
+#: abstract/mate-abstract.xml.in.in:6
+msgid "Arc"
+msgstr "Arco"
+
+#: abstract/mate-abstract.xml.in.in:15
+msgid "Flow"
+msgstr "Fluxo"
+
+#: abstract/mate-abstract.xml.in.in:25
+msgid "Gulp"
+msgstr "Gole"
+
+#: abstract/mate-abstract.xml.in.in:34
+msgid "Silk"
+msgstr "Seda"
+
+#: abstract/mate-abstract.xml.in.in:43
+msgid "Spring"
+msgstr "Primavera"
+
+#: abstract/mate-abstract.xml.in.in:52
+msgid "Waves"
+msgstr "Ondas"
+
+#: desktop/mate-desktop.xml.in.in:5
+msgid "No Desktop Background"
+msgstr "Nenhum plano de fundo"
+
+#: desktop/mate-desktop.xml.in.in:13
+msgid "Float into MATE"
+msgstr "Flutuar no MATE"
+
+#: desktop/mate-desktop.xml.in.in:19
+msgid "Green Traditional"
+msgstr "Verde tradicional"
+
+#: desktop/mate-desktop.xml.in.in:25
+msgid "Stripes"
+msgstr "Listras"
+
+#: desktop/mate-desktop.xml.in.in:34
+msgid "MATE Stripes Dark"
+msgstr "Listras MATE - Escuro"
+
+#: desktop/mate-desktop.xml.in.in:43
+msgid "MATE Stripes Light"
+msgstr "Listras MATE - Claro"
+
+#: desktop/mate-desktop.xml.in.in:52
+msgid "Ubuntu MATE Cold"
+msgstr "Ubuntu MATE - Frio"
+
+#: desktop/mate-desktop.xml.in.in:58
+msgid "Ubuntu MATE Dark"
+msgstr "Ubuntu MATE - Escuro"
+
+#: desktop/mate-desktop.xml.in.in:64
+msgid "Ubuntu MATE Radioactive"
+msgstr "Ubuntu MATE - Radioativo"
+
+#: desktop/mate-desktop.xml.in.in:70
+msgid "Ubuntu MATE Warm"
+msgstr "Ubuntu MATE - Quente"
+
+#. Translators: This is the name of a desktop background image that shows an
+#. orange/red flower.
+#. You might want to translate it into the equivalent words of your language
+#: nature/mate-nature.xml.in.in:7
+msgid "Fresh Flower"
+msgstr "Flor fresca"
+
+#. Translators: This is the name of a desktop background image that shows a
+#. green meadow.
+#. You might want to translate it into the equivalent words of your language
+#: nature/mate-nature.xml.in.in:15
+msgid "Green Meadow"
+msgstr "Campo verde"
+
+#: nature/mate-nature.xml.in.in:21
+msgid "Aqua"
+msgstr "Água"
+
+#: nature/mate-nature.xml.in.in:27
+msgid "Dune"
+msgstr "Duna"
+
+#: nature/mate-nature.xml.in.in:33
+msgid "Storm"
+msgstr "Tempestade"
+
+#: nature/mate-nature.xml.in.in:39
+msgid "Two Wings"
+msgstr "Duas asas"
+
+#: nature/mate-nature.xml.in.in:45
+msgid "Lady Bird"
+msgstr "Joaninha"
+
+#: nature/mate-nature.xml.in.in:51
+msgid "Blinds"
+msgstr "Persianas"
+
+#: nature/mate-nature.xml.in.in:57
+msgid "Rain Drops"
+msgstr "Gotas de chuva"
+
+#: nature/mate-nature.xml.in.in:63
+msgid "Yellow Flower"
+msgstr "Flor amarela"
+
+#: nature/mate-nature.xml.in.in:69
+msgid "Garden"
+msgstr "Jardim"
+
+#: nature/mate-nature.xml.in.in:75
+msgid "Wood"
+msgstr "Madeira"
