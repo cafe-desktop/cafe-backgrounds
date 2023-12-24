@@ -1,7 +1,7 @@
 [main]
 host = https://www.transifex.com
  
-[MATE.1-24--cafe-backgrounds]
+[CAFE.1-24--cafe-backgrounds]
 file_filter = po/<lang>.po
 source_file = cafe-backgrounds.pot
 source_lang = en

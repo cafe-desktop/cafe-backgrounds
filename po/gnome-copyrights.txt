@@ -148,8 +148,8 @@
 
 
 ========== cy.po ==========
-# MATE Backgrounds in Welsh.
-# This file is distributed under the same license as MATE Backgrounds.
+# CAFE Backgrounds in Welsh.
+# This file is distributed under the same license as CAFE Backgrounds.
 # Dafydd Harries <daf@muse.19inch.net>, 2004.
 #
 
@@ -216,7 +216,7 @@
 
 ========== en_CA.po ==========
 # Canadian English translation for gnome-backgrounds
-# Copyright (C) 2004-2006 Adam Weinberger and the MATE Foundation
+# Copyright (C) 2004-2006 Adam Weinberger and the CAFE Foundation
 # This file is distributed under the same licence as the gnome-backgrounds package.
 # Adam Weinberger <adamw@gnome.org>, 2004, 2005, 2006.
 #
@@ -227,7 +227,7 @@
 
 ========== en_GB.po ==========
 # British translation for gnome-backgrounds
-# Copyright (C) 2004 The MATE Foundation
+# Copyright (C) 2004 The CAFE Foundation
 # This file is distributed under the same license as the gnome-background package.
 # David Lodge <dave@cirt.net>, 2004.
 #
@@ -262,11 +262,11 @@
 
 
 ========== et.po ==========
-# MATE taustade eesti keele tõlge.
-# Estonian translation of MATE backgrounds.
+# CAFE taustade eesti keele tõlge.
+# Estonian translation of CAFE backgrounds.
 #
 # Copyright (C) 2005, 2006 The Free Software Foundation
-# Copyright (C) 2008 The MATE Project.
+# Copyright (C) 2008 The CAFE Project.
 # This file is distributed under the same license as the gnome package.
 #
 # Ivar Smolin <okul@linux.ee>, 2005, 2006, 2008.
@@ -304,7 +304,7 @@
 #
 # abstarct = abstrakti
 # tile = kaakeli
-# MATE Branded = Cafe-merkitty
+# CAFE Branded = Cafe-merkitty
 # translucent = läpikuultava
 
 
@@ -891,7 +891,7 @@
 ========== te.po ==========
 # translation of te.po to Telugu
 # Telugu translation of gnome-backgrounds
-# Copyright (C) 2004 The MATE Foundation
+# Copyright (C) 2004 The CAFE Foundation
 # This file is distributed under the same license as the gnome-background package.
 # Free Software Foundation, Andhra Pradesh
 #

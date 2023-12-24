@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR MATE Desktop Environment team
+# Copyright (C) YEAR CAFE Desktop Environment team
 # This file is distributed under the same license as the cafe-backgrounds package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -51,8 +51,8 @@ msgid "No Desktop Background"
 msgstr "Geen bureaubladachtergrond"
 
 #: desktop/cafe-desktop.xml.in.in:13
-msgid "Float into MATE"
-msgstr "Zweef in MATE"
+msgid "Float into CAFE"
+msgstr "Zweef in CAFE"
 
 #: desktop/cafe-desktop.xml.in.in:19
 msgid "Green Traditional"
@@ -63,28 +63,28 @@ msgid "Stripes"
 msgstr "Strepen"
 
 #: desktop/cafe-desktop.xml.in.in:34
-msgid "MATE Stripes Dark"
-msgstr "MATE donkere strepen"
+msgid "CAFE Stripes Dark"
+msgstr "CAFE donkere strepen"
 
 #: desktop/cafe-desktop.xml.in.in:43
-msgid "MATE Stripes Light"
-msgstr "MATE lichte strepen"
+msgid "CAFE Stripes Light"
+msgstr "CAFE lichte strepen"
 
 #: desktop/cafe-desktop.xml.in.in:52
-msgid "Ubuntu MATE Cold"
-msgstr "Ubuntu MATE Koud"
+msgid "Ubuntu CAFE Cold"
+msgstr "Ubuntu CAFE Koud"
 
 #: desktop/cafe-desktop.xml.in.in:58
-msgid "Ubuntu MATE Dark"
-msgstr "Ubuntu MATE Donker"
+msgid "Ubuntu CAFE Dark"
+msgstr "Ubuntu CAFE Donker"
 
 #: desktop/cafe-desktop.xml.in.in:64
-msgid "Ubuntu MATE Radioactive"
-msgstr "Ubuntu MATE Radioactief"
+msgid "Ubuntu CAFE Radioactive"
+msgstr "Ubuntu CAFE Radioactief"
 
 #: desktop/cafe-desktop.xml.in.in:70
-msgid "Ubuntu MATE Warm"
-msgstr "Ubuntu MATE Warm"
+msgid "Ubuntu CAFE Warm"
+msgstr "Ubuntu CAFE Warm"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.

@@ -14,10 +14,10 @@ i18n.merge_file(metadata,
   )
 
 backgrounds = [
-  'Float-into-MATE.png',
+  'Float-into-CAFE.png',
   'GreenTraditional.jpg',
-  'MATE-Stripes-Dark.png',
-  'MATE-Stripes-Light.png',
+  'CAFE-Stripes-Dark.png',
+  'CAFE-Stripes-Light.png',
   'Stripes.png',
   'Ubuntu-Cafe-Cold-no-logo.png',
   'Ubuntu-Cafe-Dark-no-logo.png',

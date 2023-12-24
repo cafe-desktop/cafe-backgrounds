@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR MATE Desktop Environment team
+# Copyright (C) YEAR CAFE Desktop Environment team
 # This file is distributed under the same license as the cafe-backgrounds package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -50,7 +50,7 @@ msgid "No Desktop Background"
 msgstr "ডেস্কটপের কোনো পটভূমি প্রয়োগ করা হবে না"
 
 #: desktop/cafe-desktop.xml.in.in:13
-msgid "Float into MATE"
+msgid "Float into CAFE"
 msgstr ""
 
 #: desktop/cafe-desktop.xml.in.in:19
@@ -62,27 +62,27 @@ msgid "Stripes"
 msgstr ""
 
 #: desktop/cafe-desktop.xml.in.in:34
-msgid "MATE Stripes Dark"
+msgid "CAFE Stripes Dark"
 msgstr ""
 
 #: desktop/cafe-desktop.xml.in.in:43
-msgid "MATE Stripes Light"
+msgid "CAFE Stripes Light"
 msgstr ""
 
 #: desktop/cafe-desktop.xml.in.in:52
-msgid "Ubuntu MATE Cold"
+msgid "Ubuntu CAFE Cold"
 msgstr ""
 
 #: desktop/cafe-desktop.xml.in.in:58
-msgid "Ubuntu MATE Dark"
+msgid "Ubuntu CAFE Dark"
 msgstr ""
 
 #: desktop/cafe-desktop.xml.in.in:64
-msgid "Ubuntu MATE Radioactive"
+msgid "Ubuntu CAFE Radioactive"
 msgstr ""
 
 #: desktop/cafe-desktop.xml.in.in:70
-msgid "Ubuntu MATE Warm"
+msgid "Ubuntu CAFE Warm"
 msgstr ""
 
 #. Translators: This is the name of a desktop background image that shows an

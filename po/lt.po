@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR MATE Desktop Environment team
+# Copyright (C) YEAR CAFE Desktop Environment team
 # This file is distributed under the same license as the cafe-backgrounds package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -50,8 +50,8 @@ msgid "No Desktop Background"
 msgstr "Be darbalaukio fono"
 
 #: desktop/cafe-desktop.xml.in.in:13
-msgid "Float into MATE"
-msgstr "Plūduriavimas į MATE"
+msgid "Float into CAFE"
+msgstr "Plūduriavimas į CAFE"
 
 #: desktop/cafe-desktop.xml.in.in:19
 msgid "Green Traditional"
@@ -62,28 +62,28 @@ msgid "Stripes"
 msgstr "Juostos"
 
 #: desktop/cafe-desktop.xml.in.in:34
-msgid "MATE Stripes Dark"
-msgstr "MATE tamsūs dryžiai"
+msgid "CAFE Stripes Dark"
+msgstr "CAFE tamsūs dryžiai"
 
 #: desktop/cafe-desktop.xml.in.in:43
-msgid "MATE Stripes Light"
-msgstr "MATE šviesūs dryžiai"
+msgid "CAFE Stripes Light"
+msgstr "CAFE šviesūs dryžiai"
 
 #: desktop/cafe-desktop.xml.in.in:52
-msgid "Ubuntu MATE Cold"
-msgstr "Ubuntu MATE šaltas"
+msgid "Ubuntu CAFE Cold"
+msgstr "Ubuntu CAFE šaltas"
 
 #: desktop/cafe-desktop.xml.in.in:58
-msgid "Ubuntu MATE Dark"
-msgstr "Ubuntu MATE tamsus"
+msgid "Ubuntu CAFE Dark"
+msgstr "Ubuntu CAFE tamsus"
 
 #: desktop/cafe-desktop.xml.in.in:64
-msgid "Ubuntu MATE Radioactive"
-msgstr "Ubuntu MATE radioaktyvus"
+msgid "Ubuntu CAFE Radioactive"
+msgstr "Ubuntu CAFE radioaktyvus"
 
 #: desktop/cafe-desktop.xml.in.in:70
-msgid "Ubuntu MATE Warm"
-msgstr "Ubuntu MATE šiltas"
+msgid "Ubuntu CAFE Warm"
+msgstr "Ubuntu CAFE šiltas"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
