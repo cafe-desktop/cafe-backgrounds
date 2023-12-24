@@ -12,8 +12,14 @@ requires:
     - git
     - libglib2.0-dev
     - make
-    - cafe-common
     - meson
+
+    #required for cafe-common
+    - autoconf
+    - gettext
+
+before_scripts:
+  - ./install-from-git https://github.com/cafe-desktop/cafe-common master
 
 build_scripts:
   - ./make-scanbuild
