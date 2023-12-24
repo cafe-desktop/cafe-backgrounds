@@ -19,9 +19,9 @@ backgrounds = [
   'MATE-Stripes-Dark.png',
   'MATE-Stripes-Light.png',
   'Stripes.png',
-  'Ubuntu-Mate-Cold-no-logo.png',
-  'Ubuntu-Mate-Dark-no-logo.png',
-  'Ubuntu-Mate-Radioactive-no-logo.png',
-  'Ubuntu-Mate-Warm-no-logo.png',
+  'Ubuntu-Cafe-Cold-no-logo.png',
+  'Ubuntu-Cafe-Dark-no-logo.png',
+  'Ubuntu-Cafe-Radioactive-no-logo.png',
+  'Ubuntu-Cafe-Warm-no-logo.png',
 ]
 install_data(backgrounds, install_dir: join_paths(backgrounddir, 'desktop'))

@@ -69,7 +69,7 @@ msgstr "MATE Raidat Tumma"
 
 #: desktop/cafe-desktop.xml.in.in:43
 msgid "MATE Stripes Light"
-msgstr "Mate Raidat Vaalea"
+msgstr "Cafe Raidat Vaalea"
 
 #: desktop/cafe-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
