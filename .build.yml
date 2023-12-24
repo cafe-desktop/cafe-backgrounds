@@ -12,9 +12,6 @@ requires:
     - mate-common
     - meson
 
-variables:
-  - CFLAGS="-Wall -Werror=format-security -Wredundant-decls"
-
 build_scripts:
   - ./autogen.sh
   - ./configure
@@ -28,16 +25,3 @@ after_scripts:
   -     fi
   -     make distcheck
   - fi
-
-releases:
-  draft: false
-  prerelease: false
-  checksum: true
-  file_glob: true
-  files: mate-backgrounds-*.tar.xz
-  github_release:
-    tags: true
-    overwrite: true
-    base_version: 1.20.0
-    notify_servers:
-      - https://release.mate-desktop.org/release
