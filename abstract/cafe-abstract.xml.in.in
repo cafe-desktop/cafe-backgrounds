@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<!DOCTYPE wallpapers SYSTEM "cafe-wp-list.dtd">
 <wallpapers>
 	<wallpaper deleted="false">
 		<!-- From http://code.google.com/p/gnome-colors/ -->
 		<name>Arc</name>
-		<filename>@datadir@/backgrounds/mate/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
+		<filename>@datadir@/backgrounds/cafe/abstract/Arc-Colors-Transparent-Wallpaper.png</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
@@ -13,7 +13,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Flow</name>
-		<filename>@datadir@/backgrounds/mate/abstract/Flow.png</filename>
+		<filename>@datadir@/backgrounds/cafe/abstract/Flow.png</filename>
 		<options>zoom</options>
 		<shade_type>horizontal-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
@@ -23,7 +23,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Gulp</name>
-		<filename>@datadir@/backgrounds/mate/abstract/Gulp.png</filename>
+		<filename>@datadir@/backgrounds/cafe/abstract/Gulp.png</filename>
 		<shade_type>horizontal-gradient</shade_type>
 		<pcolor>#627F5A</pcolor>
 		<scolor>#27587E</scolor>
@@ -32,7 +32,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Silk</name>
-		<filename>@datadir@/backgrounds/mate/abstract/Silk.png</filename>
+		<filename>@datadir@/backgrounds/cafe/abstract/Silk.png</filename>
 		<shade_type>horizontal-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
 		<scolor>#627F5A</scolor>
@@ -41,7 +41,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Spring</name>
-		<filename>@datadir@/backgrounds/mate/abstract/Spring.png</filename>
+		<filename>@datadir@/backgrounds/cafe/abstract/Spring.png</filename>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
 		<scolor>#627F5A</scolor>
@@ -50,7 +50,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Waves</name>
-		<filename>@datadir@/backgrounds/mate/abstract/Waves.png</filename>
+		<filename>@datadir@/backgrounds/cafe/abstract/Waves.png</filename>
 		<shade_type>horizontal-gradient</shade_type>
 		<pcolor>#27587E</pcolor>
 		<scolor>#627F5A</scolor>
@@ -59,7 +59,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Something slowly gets clear</name>
-		<filename>@datadir@/backgrounds/mate/abstract/Elephants.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/abstract/Elephants.jpg</filename>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#729FCF</pcolor>
 		<scolor>#000000</scolor>
@@ -68,7 +68,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Something slowly gets clear (3840x2160)</name>
-		<filename>@datadir@/backgrounds/mate/abstract/Elephants_3840x2160.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/abstract/Elephants_3840x2160.jpg</filename>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#729FCF</pcolor>
 		<scolor>#000000</scolor>
@@ -77,7 +77,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Something slowly gets clear (5640x3172)</name>
-		<filename>@datadir@/backgrounds/mate/abstract/Elephants_5640x3172.jpg</filename>
+		<filename>@datadir@/backgrounds/cafe/abstract/Elephants_5640x3172.jpg</filename>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#729FCF</pcolor>
 		<scolor>#000000</scolor>

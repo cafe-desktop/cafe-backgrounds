@@ -1,6 +1,6 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
-# This file is distributed under the same license as the mate-backgrounds package.
+# This file is distributed under the same license as the cafe-backgrounds package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
@@ -9,12 +9,12 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.23.0\n"
-"Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
+"Project-Id-Version: cafe-backgrounds 1.23.0\n"
+"Report-Msgid-Bugs-To: http://www.cafe-desktop.org\n"
 "POT-Creation-Date: 2019-11-06 12:38+0100\n"
 "PO-Revision-Date: 2020-02-15 12:57+0000\n"
 "Last-Translator: Sadgamaya <g.raghavan.g@gmail.com>, 2020\n"
-"Language-Team: Hindi (https://www.transifex.com/mate/teams/13566/hi/)\n"
+"Language-Team: Hindi (https://www.transifex.com/cafe/teams/13566/hi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,120 +22,120 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. From http://code.google.com/p/gnome-colors/
-#: abstract/mate-abstract.xml.in.in:6
+#: abstract/cafe-abstract.xml.in.in:6
 msgid "Arc"
 msgstr "वृत्ताकार"
 
-#: abstract/mate-abstract.xml.in.in:15
+#: abstract/cafe-abstract.xml.in.in:15
 msgid "Flow"
 msgstr "प्रवाह"
 
-#: abstract/mate-abstract.xml.in.in:25
+#: abstract/cafe-abstract.xml.in.in:25
 msgid "Gulp"
 msgstr "निवाला"
 
-#: abstract/mate-abstract.xml.in.in:34
+#: abstract/cafe-abstract.xml.in.in:34
 msgid "Silk"
 msgstr "रेशमी"
 
-#: abstract/mate-abstract.xml.in.in:43
+#: abstract/cafe-abstract.xml.in.in:43
 msgid "Spring"
 msgstr "वसंत"
 
-#: abstract/mate-abstract.xml.in.in:52
+#: abstract/cafe-abstract.xml.in.in:52
 msgid "Waves"
 msgstr "तरंग"
 
-#: desktop/mate-desktop.xml.in.in:5
+#: desktop/cafe-desktop.xml.in.in:5
 msgid "No Desktop Background"
 msgstr "कोई डेस्कटॉप पृष्ठभूमि नहीं है"
 
-#: desktop/mate-desktop.xml.in.in:13
+#: desktop/cafe-desktop.xml.in.in:13
 msgid "Float into MATE"
 msgstr ""
 
-#: desktop/mate-desktop.xml.in.in:19
+#: desktop/cafe-desktop.xml.in.in:19
 msgid "Green Traditional"
 msgstr "हरा पारम्परिक"
 
-#: desktop/mate-desktop.xml.in.in:25
+#: desktop/cafe-desktop.xml.in.in:25
 msgid "Stripes"
 msgstr "धारी"
 
-#: desktop/mate-desktop.xml.in.in:34
+#: desktop/cafe-desktop.xml.in.in:34
 msgid "MATE Stripes Dark"
 msgstr ""
 
-#: desktop/mate-desktop.xml.in.in:43
+#: desktop/cafe-desktop.xml.in.in:43
 msgid "MATE Stripes Light"
 msgstr ""
 
-#: desktop/mate-desktop.xml.in.in:52
+#: desktop/cafe-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
 msgstr ""
 
-#: desktop/mate-desktop.xml.in.in:58
+#: desktop/cafe-desktop.xml.in.in:58
 msgid "Ubuntu MATE Dark"
 msgstr ""
 
-#: desktop/mate-desktop.xml.in.in:64
+#: desktop/cafe-desktop.xml.in.in:64
 msgid "Ubuntu MATE Radioactive"
 msgstr ""
 
-#: desktop/mate-desktop.xml.in.in:70
+#: desktop/cafe-desktop.xml.in.in:70
 msgid "Ubuntu MATE Warm"
 msgstr ""
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: nature/mate-nature.xml.in.in:7
+#: nature/cafe-nature.xml.in.in:7
 msgid "Fresh Flower"
 msgstr "ताजा फूल"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: nature/mate-nature.xml.in.in:15
+#: nature/cafe-nature.xml.in.in:15
 msgid "Green Meadow"
 msgstr "हरा बाग"
 
-#: nature/mate-nature.xml.in.in:21
+#: nature/cafe-nature.xml.in.in:21
 msgid "Aqua"
 msgstr "जलीय"
 
-#: nature/mate-nature.xml.in.in:27
+#: nature/cafe-nature.xml.in.in:27
 msgid "Dune"
 msgstr "बालुका स्तूप"
 
-#: nature/mate-nature.xml.in.in:33
+#: nature/cafe-nature.xml.in.in:33
 msgid "Storm"
 msgstr "तूफानी"
 
-#: nature/mate-nature.xml.in.in:39
+#: nature/cafe-nature.xml.in.in:39
 msgid "Two Wings"
 msgstr "द्विपंखी"
 
-#: nature/mate-nature.xml.in.in:45
+#: nature/cafe-nature.xml.in.in:45
 msgid "Lady Bird"
 msgstr "लेडी बर्ड"
 
-#: nature/mate-nature.xml.in.in:51
+#: nature/cafe-nature.xml.in.in:51
 msgid "Blinds"
 msgstr "सूरदास"
 
-#: nature/mate-nature.xml.in.in:57
+#: nature/cafe-nature.xml.in.in:57
 msgid "Rain Drops"
 msgstr "बर्षा जल"
 
-#: nature/mate-nature.xml.in.in:63
+#: nature/cafe-nature.xml.in.in:63
 msgid "Yellow Flower"
 msgstr "पीला फूल"
 
-#: nature/mate-nature.xml.in.in:69
+#: nature/cafe-nature.xml.in.in:69
 msgid "Garden"
 msgstr "फुलवारी"
 
-#: nature/mate-nature.xml.in.in:75
+#: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "काष्ठ"

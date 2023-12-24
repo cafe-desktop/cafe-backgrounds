@@ -1,5 +1,5 @@
 # replace @datadir@ and translate
-metadata = 'mate-desktop.xml'
+metadata = 'cafe-desktop.xml'
 i18n.merge_file(metadata,
   input: configure_file(
     input: metadata + '.in.in',

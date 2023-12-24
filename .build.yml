@@ -3,8 +3,8 @@
 ##########################################################
 requires:
   debian:
-    # Useful URL: https://github.com/mate-desktop/debian-packages
-    # Useful URL: https://salsa.debian.org/debian-mate-team/mate-backgrounds
+    # Useful URL: https://github.com/cafe-desktop/debian-packages
+    # Useful URL: https://salsa.debian.org/debian-cafe-team/cafe-backgrounds
     - aptitude
     - autopoint
     - clang-tools
@@ -12,7 +12,7 @@ requires:
     - git
     - libglib2.0-dev
     - make
-    - mate-common
+    - cafe-common
     - meson
 
 build_scripts:

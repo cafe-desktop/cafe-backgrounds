@@ -1,6 +1,6 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR MATE Desktop Environment team
-# This file is distributed under the same license as the mate-backgrounds package.
+# This file is distributed under the same license as the cafe-backgrounds package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
@@ -9,12 +9,12 @@
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: mate-backgrounds 1.23.0\n"
-"Report-Msgid-Bugs-To: http://www.mate-desktop.org\n"
+"Project-Id-Version: cafe-backgrounds 1.23.0\n"
+"Report-Msgid-Bugs-To: http://www.cafe-desktop.org\n"
 "POT-Creation-Date: 2019-11-06 12:38+0100\n"
 "PO-Revision-Date: 2020-02-15 12:57+0000\n"
 "Last-Translator: Yaroslav Shevchenko <yvshevchenko@gmail.com>, 2020\n"
-"Language-Team: Russian (https://www.transifex.com/mate/teams/13566/ru/)\n"
+"Language-Team: Russian (https://www.transifex.com/cafe/teams/13566/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,120 +22,120 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
 #. From http://code.google.com/p/gnome-colors/
-#: abstract/mate-abstract.xml.in.in:6
+#: abstract/cafe-abstract.xml.in.in:6
 msgid "Arc"
 msgstr "Арка"
 
-#: abstract/mate-abstract.xml.in.in:15
+#: abstract/cafe-abstract.xml.in.in:15
 msgid "Flow"
 msgstr "Поток"
 
-#: abstract/mate-abstract.xml.in.in:25
+#: abstract/cafe-abstract.xml.in.in:25
 msgid "Gulp"
 msgstr "Глоток"
 
-#: abstract/mate-abstract.xml.in.in:34
+#: abstract/cafe-abstract.xml.in.in:34
 msgid "Silk"
 msgstr "Шёлк"
 
-#: abstract/mate-abstract.xml.in.in:43
+#: abstract/cafe-abstract.xml.in.in:43
 msgid "Spring"
 msgstr "Весна"
 
-#: abstract/mate-abstract.xml.in.in:52
+#: abstract/cafe-abstract.xml.in.in:52
 msgid "Waves"
 msgstr "Волны"
 
-#: desktop/mate-desktop.xml.in.in:5
+#: desktop/cafe-desktop.xml.in.in:5
 msgid "No Desktop Background"
 msgstr "Без фона рабочего стола"
 
-#: desktop/mate-desktop.xml.in.in:13
+#: desktop/cafe-desktop.xml.in.in:13
 msgid "Float into MATE"
 msgstr "Плавающий MATE"
 
-#: desktop/mate-desktop.xml.in.in:19
+#: desktop/cafe-desktop.xml.in.in:19
 msgid "Green Traditional"
 msgstr "Традиционный зелёный"
 
-#: desktop/mate-desktop.xml.in.in:25
+#: desktop/cafe-desktop.xml.in.in:25
 msgid "Stripes"
 msgstr "Полосы"
 
-#: desktop/mate-desktop.xml.in.in:34
+#: desktop/cafe-desktop.xml.in.in:34
 msgid "MATE Stripes Dark"
 msgstr "MATE тёмный с полосами"
 
-#: desktop/mate-desktop.xml.in.in:43
+#: desktop/cafe-desktop.xml.in.in:43
 msgid "MATE Stripes Light"
 msgstr "MATE светлый с полосами"
 
-#: desktop/mate-desktop.xml.in.in:52
+#: desktop/cafe-desktop.xml.in.in:52
 msgid "Ubuntu MATE Cold"
 msgstr "Ubuntu MATE холодный"
 
-#: desktop/mate-desktop.xml.in.in:58
+#: desktop/cafe-desktop.xml.in.in:58
 msgid "Ubuntu MATE Dark"
 msgstr "Ubuntu MATE тёмный"
 
-#: desktop/mate-desktop.xml.in.in:64
+#: desktop/cafe-desktop.xml.in.in:64
 msgid "Ubuntu MATE Radioactive"
 msgstr "Ubuntu MATE радиоактивный"
 
-#: desktop/mate-desktop.xml.in.in:70
+#: desktop/cafe-desktop.xml.in.in:70
 msgid "Ubuntu MATE Warm"
 msgstr "Ubuntu MATE тёплый"
 
 #. Translators: This is the name of a desktop background image that shows an
 #. orange/red flower.
 #. You might want to translate it into the equivalent words of your language
-#: nature/mate-nature.xml.in.in:7
+#: nature/cafe-nature.xml.in.in:7
 msgid "Fresh Flower"
 msgstr "Оранжевый цветок"
 
 #. Translators: This is the name of a desktop background image that shows a
 #. green meadow.
 #. You might want to translate it into the equivalent words of your language
-#: nature/mate-nature.xml.in.in:15
+#: nature/cafe-nature.xml.in.in:15
 msgid "Green Meadow"
 msgstr "Зелёный луг"
 
-#: nature/mate-nature.xml.in.in:21
+#: nature/cafe-nature.xml.in.in:21
 msgid "Aqua"
 msgstr "Вода"
 
-#: nature/mate-nature.xml.in.in:27
+#: nature/cafe-nature.xml.in.in:27
 msgid "Dune"
 msgstr "Дюна"
 
-#: nature/mate-nature.xml.in.in:33
+#: nature/cafe-nature.xml.in.in:33
 msgid "Storm"
 msgstr "Шторм"
 
-#: nature/mate-nature.xml.in.in:39
+#: nature/cafe-nature.xml.in.in:39
 msgid "Two Wings"
 msgstr "Два крыла"
 
-#: nature/mate-nature.xml.in.in:45
+#: nature/cafe-nature.xml.in.in:45
 msgid "Lady Bird"
 msgstr "Божья коровка"
 
-#: nature/mate-nature.xml.in.in:51
+#: nature/cafe-nature.xml.in.in:51
 msgid "Blinds"
 msgstr "Жалюзи"
 
-#: nature/mate-nature.xml.in.in:57
+#: nature/cafe-nature.xml.in.in:57
 msgid "Rain Drops"
 msgstr "Капли дождя"
 
-#: nature/mate-nature.xml.in.in:63
+#: nature/cafe-nature.xml.in.in:63
 msgid "Yellow Flower"
 msgstr "Жёлтый цветок"
 
-#: nature/mate-nature.xml.in.in:69
+#: nature/cafe-nature.xml.in.in:69
 msgid "Garden"
 msgstr "Сад"
 
-#: nature/mate-nature.xml.in.in:75
+#: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Древесина"
