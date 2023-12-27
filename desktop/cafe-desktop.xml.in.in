@@ -10,18 +10,6 @@
 		<scolor>#627F5A</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name>Float into CAFE</name>
-		<filename>@datadir@/backgrounds/cafe/desktop/Float-into-CAFE.png</filename>
-		<options>zoom</options>
-		<artist>Rowen Stipe</artist>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>Green Traditional</name>
-		<filename>@datadir@/backgrounds/cafe/desktop/GreenTraditional.jpg</filename>
-		<options>zoom</options>
-		<artist>l0r4n0n</artist>
-	</wallpaper>
-	<wallpaper deleted="false">
 		<name>Stripes</name>
 		<filename>@datadir@/backgrounds/cafe/desktop/Stripes.png</filename>
 		<options>zoom</options>
@@ -29,24 +17,6 @@
 		<pcolor>#5891BC</pcolor>
 		<scolor>#44A52A</scolor>
 		<artist>Jakub Steiner</artist>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>CAFE Stripes Dark</name>
-		<filename>@datadir@/backgrounds/cafe/desktop/CAFE-Stripes-Dark.png</filename>
-		<options>zoom</options>
-		<shade_type>vertical-gradient</shade_type>
-		<pcolor>#BADA55</pcolor>
-		<scolor>#85D45B</scolor>
-		<artist>Adam Erdman</artist>
-	</wallpaper>
-	<wallpaper deleted="false">
-		<name>CAFE Stripes Light</name>
-		<filename>@datadir@/backgrounds/cafe/desktop/CAFE-Stripes-Light.png</filename>
-		<options>zoom</options>
-		<shade_type>vertical-gradient</shade_type>
-		<pcolor>#3F4D28</pcolor>
-		<scolor>#6A9426</scolor>
-		<artist>Adam Erdman</artist>
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Ubuntu CAFE Cold</name>
