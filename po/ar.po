@@ -10,7 +10,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: cafe-backgrounds 1.23.0\n"
+"Project-Id-Version: cafe-backgrounds 1.25.0\n"
 "Report-Msgid-Bugs-To: http://www.cafe-desktop.org\n"
 "POT-Creation-Date: 2023-12-30 18:32+0100\n"
 "PO-Revision-Date: 2020-02-15 12:57+0000\n"
