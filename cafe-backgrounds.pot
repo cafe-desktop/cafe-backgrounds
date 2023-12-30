@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: cafe-backgrounds 1.24.1\n"
+"Project-Id-Version: cafe-backgrounds 1.25.0\n"
 "Report-Msgid-Bugs-To: http://www.cafe-desktop.org\n"
-"POT-Creation-Date: 2020-09-15 18:59+0200\n"
+"POT-Creation-Date: 2023-12-30 18:32+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,38 +58,22 @@ msgid "No Desktop Background"
 msgstr ""
 
 #: desktop/cafe-desktop.xml.in.in:13
-msgid "Float into CAFE"
-msgstr ""
-
-#: desktop/cafe-desktop.xml.in.in:19
-msgid "Green Traditional"
-msgstr ""
-
-#: desktop/cafe-desktop.xml.in.in:25
 msgid "Stripes"
 msgstr ""
 
-#: desktop/cafe-desktop.xml.in.in:34
-msgid "CAFE Stripes Dark"
-msgstr ""
-
-#: desktop/cafe-desktop.xml.in.in:43
-msgid "CAFE Stripes Light"
-msgstr ""
-
-#: desktop/cafe-desktop.xml.in.in:52
+#: desktop/cafe-desktop.xml.in.in:22
 msgid "Ubuntu CAFE Cold"
 msgstr ""
 
-#: desktop/cafe-desktop.xml.in.in:58
+#: desktop/cafe-desktop.xml.in.in:28
 msgid "Ubuntu CAFE Dark"
 msgstr ""
 
-#: desktop/cafe-desktop.xml.in.in:64
+#: desktop/cafe-desktop.xml.in.in:34
 msgid "Ubuntu CAFE Radioactive"
 msgstr ""
 
-#: desktop/cafe-desktop.xml.in.in:70
+#: desktop/cafe-desktop.xml.in.in:40
 msgid "Ubuntu CAFE Warm"
 msgstr ""
 
