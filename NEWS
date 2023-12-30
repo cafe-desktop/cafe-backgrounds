@@ -1,73 +1,10 @@
-### cafe-backgrounds 1.24.2
+### cafe-backgrounds 1.25.0
 
-   * Translations update
-   * Added elephants wallpaper
-
-### cafe-backgrounds 1.24.1
-
-   * Translations update
-   * build: add meson config files to EXTRA_DIST
-
-### cafe-backgrounds 1.24.0
-
-   * Translations update
-   * build: don't override GETTEXT_PACKAGE if it's equal to PACKAGE_NAME
-   * Fix the error if have a newer version of gettext.
-
-### cafe-backgrounds 1.23.0
-
-   * Translations update
-   * update makepot script
-   * enable meson build at travis-CI
-   * use meson build system
-   * Migrate from intltool to gettext
-   * provide releases at github
-
-### cafe-backgrounds 1.22.0
-
-   * Initialize Travis CI support
-
-### cafe-backgrounds 1.21.0
-
-   * Translations update
-
-### cafe-backgrounds 1.20.0
-
-   * Translations update
-   * drop ancient gnome leftovers
-
-### cafe-backgrounds 1.19.0
-
-   * Translations update
-   * Restore Polish translation credits from GNOME
-
-### cafe-backgrounds 1.18.0
-
-   * Translations update
-
-### cafe-backgrounds 1.17.0
-
-   * Translations update
-
-### cafe-backgrounds 1.16.0
-
-   * Translations update
-
-### cafe-backgrounds 1.14.0
-
-   * Add new languages and sync translations with transiflex
-   * Add Changelog generation
-
-### cafe-backgrounds 1.12.0
-
-   * Sync translations with transifex
-
-### cafe-backgrounds 1.10.0
-
-  * Add Ubuntu CAFE wallpapers without branding, by Ubuntu CAFE team
-  * Add new CAFE-Stripes-Dark.png, CAFE-Stripes-Light.png wallpapers by hekel
-
-### cafe-backgrounds 1.8.0
-
-  * Add new "Float into CAFE" wallpaper by Rowen Stipe
-  * Add artist tag in XML files
+  * initial release: mate-backgrounds 1.24.2 fork
+  * update FUNDING.yml
+  * ci: enable Github Actions
+  * rename MATE -> CAFE
+  * remove MATE desktop images
+  * po,Makevars: supress progress indicators
+  * build: Fix AC_OUTPUT warning
+  * Update translations
