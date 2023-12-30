@@ -132,9 +132,3 @@ msgstr "Garður"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Viður"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Fljóta inn í CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Hefðbundið grænt"

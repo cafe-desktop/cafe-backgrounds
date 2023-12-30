@@ -133,6 +133,3 @@ msgstr "Vườn"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Cây"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Xanh lá Truyền thống"

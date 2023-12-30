@@ -133,6 +133,3 @@ msgstr "फुलवारी"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "काष्ठ"
-
-#~ msgid "Green Traditional"
-#~ msgstr "हरा पारम्परिक"

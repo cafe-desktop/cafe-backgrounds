@@ -133,6 +133,3 @@ msgstr "बाग"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "लाकडी"
-
-#~ msgid "Green Traditional"
-#~ msgstr "पारंपारिक हिरवे"

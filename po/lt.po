@@ -134,15 +134,3 @@ msgstr "Sodas"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Medis"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Plūduriavimas į CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Tradicinė žalia"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE tamsūs dryžiai"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE šviesūs dryžiai"

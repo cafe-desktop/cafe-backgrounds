@@ -135,15 +135,3 @@ msgstr "Vrt"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Les"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Plavaj v CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Tradicionalno zelena"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE proge, temno"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE proge, svetlo"

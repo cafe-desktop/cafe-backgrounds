@@ -132,15 +132,3 @@ msgstr "Trädgård"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Trä"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Flyt in i CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Grön traditionell"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE Ränder Mörkt"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE Ränder Ljust"

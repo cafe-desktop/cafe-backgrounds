@@ -132,15 +132,3 @@ msgstr "Керемидено цвете"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Избеляла дървесина"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Плаващ CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Зелен традиционен"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "Тъмни райета на CAFE"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "Светли райета на CAFE"

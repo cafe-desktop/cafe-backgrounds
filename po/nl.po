@@ -134,15 +134,3 @@ msgstr "Tuin"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Hout"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Zweef in CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Traditioneel groen"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE donkere strepen"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE lichte strepen"

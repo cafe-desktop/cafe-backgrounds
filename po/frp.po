@@ -133,6 +133,3 @@ msgstr "Jardin"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr ""
-
-#~ msgid "Green Traditional"
-#~ msgstr "Vèrd tradicionèl"

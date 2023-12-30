@@ -134,6 +134,3 @@ msgstr "Gardd"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Pren"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Gwyrdd traddodiadol"

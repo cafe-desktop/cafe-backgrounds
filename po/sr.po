@@ -134,15 +134,3 @@ msgstr "Башта"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Дрво"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Лебди у Мејту"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Традиционално зелено"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "Мејтове тамне пруге"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "Мејтове светле пруге"

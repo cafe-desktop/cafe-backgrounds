@@ -132,15 +132,3 @@ msgstr "정원"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "나뭇결"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "마테에 띄우기"
-
-#~ msgid "Green Traditional"
-#~ msgstr "마테 전통 녹색"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "마테 줄무늬 어둔 색"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "마테 줄무늬 밝은 색"

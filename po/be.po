@@ -135,6 +135,3 @@ msgstr "Сад"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Дрэва"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Традыцыйны зялёны"

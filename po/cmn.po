@@ -133,6 +133,3 @@ msgstr "花園"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "木頭"
-
-#~ msgid "Green Traditional"
-#~ msgstr "傳統綠色"

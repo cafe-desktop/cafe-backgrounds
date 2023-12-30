@@ -133,6 +133,3 @@ msgstr "Vrt"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Drvo"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Zeleno Tradicionalno"

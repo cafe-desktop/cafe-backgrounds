@@ -133,15 +133,3 @@ msgstr "花園"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "木頭"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "浮入 CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "傳統綠"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE Stripes Dark"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE Stripes Light"

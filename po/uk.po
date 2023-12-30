@@ -138,15 +138,3 @@ msgstr "Сад"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Деревина"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Плавучий CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Традиційний зелений"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE темний зі смугами"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE світлий зі смугами"

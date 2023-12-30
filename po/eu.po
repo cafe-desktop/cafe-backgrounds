@@ -133,12 +133,3 @@ msgstr "Lorategia"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Zura"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Berde tradizionala"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE marra ilunak"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE marra argiak"

@@ -132,15 +132,3 @@ msgstr "Κήπος"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Ξύλο"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Ελεύθερα μετακινούμενο προς CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Παραδοσειακό πράσινο"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE Stripes Dark"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE Stripes Light"

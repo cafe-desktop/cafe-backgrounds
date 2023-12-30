@@ -133,15 +133,3 @@ msgstr "Jardí"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Fusta"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Deixa flotant a CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Tradicional verd"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr " Ratlles fosques de CAFE"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "Ratlles clares de CAFE"

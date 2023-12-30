@@ -133,15 +133,3 @@ msgstr "Hage"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Tre"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Flyt inn i CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Tradisjonell grønn"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE mørke striper"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE lyse striper"

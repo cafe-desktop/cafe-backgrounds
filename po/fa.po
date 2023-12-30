@@ -133,6 +133,3 @@ msgstr "بوستان"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "چوب"
-
-#~ msgid "Green Traditional"
-#~ msgstr "سنتی سبز"

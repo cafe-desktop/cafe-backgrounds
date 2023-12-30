@@ -133,15 +133,3 @@ msgstr "绽放"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "木纹"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "浮入 CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "经典绿"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "暗色 CAFE 条纹"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "淡色 CAFE 条纹"

@@ -133,15 +133,3 @@ msgstr "Kert"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Fa"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Belebegés a CAFE-be"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Hagyományos zöld"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE sötét vonalak"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE világos vonalak"

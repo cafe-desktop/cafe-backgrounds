@@ -135,12 +135,3 @@ msgstr "Òrt"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Fusta"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Verd tradicional"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE raiaduras negras"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE raiaduras claras"

@@ -132,15 +132,3 @@ msgstr "አትክልት "
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "እንጨት "
-
-#~ msgid "Float into CAFE"
-#~ msgstr "ተንሳፋፊ ሜት"
-
-#~ msgid "Green Traditional"
-#~ msgstr "አረንጓዴ ባሕላዊ "
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "ሜት ባለ ጥቁር መስመር"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "ሜት ባለ ቀላል መስመር"

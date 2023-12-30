@@ -134,6 +134,3 @@ msgstr "Այգի"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Անտառ"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Ավանդական կանաչ"

@@ -133,15 +133,3 @@ msgstr "Záhrada"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Drevo"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Lietajúce CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Tradičné zelené"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "Tmavé pruhy CAFE"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "Svetlé pruhy CAFE"

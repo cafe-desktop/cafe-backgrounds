@@ -133,6 +133,3 @@ msgstr "Bog'"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "O'rmon"
-
-#~ msgid "Green Traditional"
-#~ msgstr "An'anaviy Yashil"

@@ -133,15 +133,3 @@ msgstr "גן"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "עץ"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "ציפה לתוך CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "ירוק מסורתי"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE פסים כהים"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE פסים בהירים"

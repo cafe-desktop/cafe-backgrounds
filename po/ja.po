@@ -132,15 +132,3 @@ msgstr "庭"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "ウッド"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "フロート・イントゥー CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "グリーン・トラディショナル"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE ストライプ (淡色)"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE ストライプ (濃色)"

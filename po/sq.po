@@ -133,6 +133,3 @@ msgstr "Kopësht"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Dru"
-
-#~ msgid "Green Traditional"
-#~ msgstr "E gjelbër tradicionale"

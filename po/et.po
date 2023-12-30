@@ -132,15 +132,3 @@ msgstr "Aiamaa"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Puit"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Hõljuv CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Traditsiooniline roheline"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE tumedate triipudega"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE heledate triipudega"

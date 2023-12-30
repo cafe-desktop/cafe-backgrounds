@@ -133,6 +133,3 @@ msgstr "Цэцэрлэг"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Мод"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Ногоон үндэсний"

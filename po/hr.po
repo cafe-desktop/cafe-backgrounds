@@ -133,15 +133,3 @@ msgstr "Vrt"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Šuma"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Plutajući CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Zeleno tradicionalno"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE tamne pruge"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE svijetle pruge"

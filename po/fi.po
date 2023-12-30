@@ -134,15 +134,3 @@ msgstr "Puutarha"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Puu"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "CAFE Kelluva"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Vihreä Perinteinen"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE Raidat Tumma"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "Cafe Raidat Vaalea"

@@ -132,15 +132,3 @@ msgstr "Taman"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Kayu"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Mengapung menuju CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Hijau Tradisional"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE Bergaris Gelap"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE Bergaris Terang"

@@ -128,33 +128,3 @@ msgstr ""
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr ""
-
-#~ msgid "Aqua Foot (CAFE Branded)"
-#~ msgstr "Aqua Pê (Bî Logoya CAFE)"
-
-#~ msgid "Fraser Island (CAFE Branded)"
-#~ msgstr "Adaya Fraser (Bî Logoya CAFE)"
-
-#~ msgid "Red Blurred (CAFE Branded)"
-#~ msgstr "Reþberîya Sor (Bî Logoya CAFE)"
-
-#~ msgid "Weird Colors (CAFE Branded)"
-#~ msgstr "Rengên Tevlhevkîrî (Bî Logoya CAFE)"
-
-#~ msgid "Alien Artifact (Translucent Tile)"
-#~ msgstr "TîÂþtên Jý ûzayê (Sazkîrîna Awrengî)"
-
-#~ msgid "Cow Spots (Translucent Tile)"
-#~ msgstr "Belekîyîn ÇÂêlekan (Sazkîrîna Awrengî)"
-
-#~ msgid "Diamond Tile Pattern (Translucent Tile)"
-#~ msgstr "Sazkîrîna Elmasîi Sazkîrîna Awrengî)"
-
-#~ msgid "Ellipsis (Translucent)"
-#~ msgstr "Elipsên (Awrengî)"
-
-#~ msgid "Rectangles (Translucent)"
-#~ msgstr "ÇarkûÂþeyan (Awrengîf)"
-
-#~ msgid "Tentacles (Translucent)"
-#~ msgstr "Mýlîn Axtapotan (Awrengî)"

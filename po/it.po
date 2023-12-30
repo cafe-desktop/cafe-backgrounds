@@ -133,15 +133,3 @@ msgstr "Giardino"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Legno"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "Fluttua in CAFE"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Verde tradizionale"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE strisce scure"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE strisce chiare"

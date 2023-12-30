@@ -134,6 +134,3 @@ msgstr "Dārzs"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Koks"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Zaļais Tradicionālais"

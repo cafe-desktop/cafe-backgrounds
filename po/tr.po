@@ -132,15 +132,3 @@ msgstr "Bahçe"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Ahşap"
-
-#~ msgid "Float into CAFE"
-#~ msgstr "CAFE içine dal"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Geleneksel Yeşil"
-
-#~ msgid "CAFE Stripes Dark"
-#~ msgstr "CAFE Koyu Şeritler"
-
-#~ msgid "CAFE Stripes Light"
-#~ msgstr "CAFE Hafif Şeritler"

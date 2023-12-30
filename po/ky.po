@@ -132,6 +132,3 @@ msgstr "Бак"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Жыгач"
-
-#~ msgid "Green Traditional"
-#~ msgstr "Салттуу жашыл"
