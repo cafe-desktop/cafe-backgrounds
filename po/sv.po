@@ -2,22 +2,22 @@
 # Copyright (C) YEAR CAFE Desktop Environment team
 # This file is distributed under the same license as the cafe-backgrounds package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # Tobias Lekare <lekare@linux.com>, 2020
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: cafe-backgrounds 1.23.0\n"
 "Report-Msgid-Bugs-To: http://www.cafe-desktop.org\n"
-"POT-Creation-Date: 2019-11-06 12:38+0100\n"
+"POT-Creation-Date: 2023-12-30 18:32+0100\n"
 "PO-Revision-Date: 2020-02-15 12:57+0000\n"
 "Last-Translator: Tobias Lekare <lekare@linux.com>, 2020\n"
 "Language-Team: Swedish (https://www.transifex.com/cafe/teams/13566/sv/)\n"
+"Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. From http://code.google.com/p/gnome-colors/
@@ -45,55 +45,49 @@ msgstr "Vår"
 msgid "Waves"
 msgstr "Vågor"
 
+#: abstract/cafe-abstract.xml.in.in:61
+msgid "Something slowly gets clear"
+msgstr ""
+
+#: abstract/cafe-abstract.xml.in.in:70
+msgid "Something slowly gets clear (3840x2160)"
+msgstr ""
+
+#: abstract/cafe-abstract.xml.in.in:79
+msgid "Something slowly gets clear (5640x3172)"
+msgstr ""
+
 #: desktop/cafe-desktop.xml.in.in:5
 msgid "No Desktop Background"
 msgstr "Ingen skrivbordsbakgrund"
 
 #: desktop/cafe-desktop.xml.in.in:13
-msgid "Float into CAFE"
-msgstr "Flyt in i CAFE"
-
-#: desktop/cafe-desktop.xml.in.in:19
-msgid "Green Traditional"
-msgstr "Grön traditionell"
-
-#: desktop/cafe-desktop.xml.in.in:25
 msgid "Stripes"
 msgstr "Ränder"
 
-#: desktop/cafe-desktop.xml.in.in:34
-msgid "CAFE Stripes Dark"
-msgstr "CAFE Ränder Mörkt"
-
-#: desktop/cafe-desktop.xml.in.in:43
-msgid "CAFE Stripes Light"
-msgstr "CAFE Ränder Ljust"
-
-#: desktop/cafe-desktop.xml.in.in:52
+#: desktop/cafe-desktop.xml.in.in:22
 msgid "Ubuntu CAFE Cold"
 msgstr "Ubuntu CAFE Kall"
 
-#: desktop/cafe-desktop.xml.in.in:58
+#: desktop/cafe-desktop.xml.in.in:28
 msgid "Ubuntu CAFE Dark"
 msgstr "Ubuntu CAFE Mörk"
 
-#: desktop/cafe-desktop.xml.in.in:64
+#: desktop/cafe-desktop.xml.in.in:34
 msgid "Ubuntu CAFE Radioactive"
 msgstr "Ubuntu CAFE Radioaktiv"
 
-#: desktop/cafe-desktop.xml.in.in:70
+#: desktop/cafe-desktop.xml.in.in:40
 msgid "Ubuntu CAFE Warm"
 msgstr "Ubuntu CAFE Varm"
 
-#. Translators: This is the name of a desktop background image that shows an
-#. orange/red flower.
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: nature/cafe-nature.xml.in.in:7
 msgid "Fresh Flower"
 msgstr "Friskblomma"
 
-#. Translators: This is the name of a desktop background image that shows a
-#. green meadow.
+#. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: nature/cafe-nature.xml.in.in:15
 msgid "Green Meadow"
@@ -138,3 +132,15 @@ msgstr "Trädgård"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Trä"
+
+#~ msgid "Float into CAFE"
+#~ msgstr "Flyt in i CAFE"
+
+#~ msgid "Green Traditional"
+#~ msgstr "Grön traditionell"
+
+#~ msgid "CAFE Stripes Dark"
+#~ msgstr "CAFE Ränder Mörkt"
+
+#~ msgid "CAFE Stripes Light"
+#~ msgstr "CAFE Ränder Ljust"

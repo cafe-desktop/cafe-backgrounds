@@ -2,26 +2,29 @@
 # Copyright (C) YEAR CAFE Desktop Environment team
 # This file is distributed under the same license as the cafe-backgrounds package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # Yarema aka Knedlyk <yupadmin@gmail.com>, 2020
 # Stefano Karapetsas <stefano@karapetsas.com>, 2020
 # zubr139, 2020
 # Микола Ткач <chistomov@gmail.com>, 2020
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: cafe-backgrounds 1.23.0\n"
 "Report-Msgid-Bugs-To: http://www.cafe-desktop.org\n"
-"POT-Creation-Date: 2019-11-06 12:38+0100\n"
+"POT-Creation-Date: 2023-12-30 18:32+0100\n"
 "PO-Revision-Date: 2020-02-15 12:57+0000\n"
 "Last-Translator: Микола Ткач <chistomov@gmail.com>, 2020\n"
 "Language-Team: Ukrainian (https://www.transifex.com/cafe/teams/13566/uk/)\n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: uk\n"
-"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
+"Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != "
+"11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % "
+"100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
+"(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
 #. From http://code.google.com/p/gnome-colors/
 #: abstract/cafe-abstract.xml.in.in:6
@@ -48,55 +51,49 @@ msgstr "Весна"
 msgid "Waves"
 msgstr "Хвилі"
 
+#: abstract/cafe-abstract.xml.in.in:61
+msgid "Something slowly gets clear"
+msgstr ""
+
+#: abstract/cafe-abstract.xml.in.in:70
+msgid "Something slowly gets clear (3840x2160)"
+msgstr ""
+
+#: abstract/cafe-abstract.xml.in.in:79
+msgid "Something slowly gets clear (5640x3172)"
+msgstr ""
+
 #: desktop/cafe-desktop.xml.in.in:5
 msgid "No Desktop Background"
 msgstr "Стільниця без тла"
 
 #: desktop/cafe-desktop.xml.in.in:13
-msgid "Float into CAFE"
-msgstr "Плавучий CAFE"
-
-#: desktop/cafe-desktop.xml.in.in:19
-msgid "Green Traditional"
-msgstr "Традиційний зелений"
-
-#: desktop/cafe-desktop.xml.in.in:25
 msgid "Stripes"
 msgstr "Смуги"
 
-#: desktop/cafe-desktop.xml.in.in:34
-msgid "CAFE Stripes Dark"
-msgstr "CAFE темний зі смугами"
-
-#: desktop/cafe-desktop.xml.in.in:43
-msgid "CAFE Stripes Light"
-msgstr "CAFE світлий зі смугами"
-
-#: desktop/cafe-desktop.xml.in.in:52
+#: desktop/cafe-desktop.xml.in.in:22
 msgid "Ubuntu CAFE Cold"
 msgstr "Ubuntu CAFE холодний"
 
-#: desktop/cafe-desktop.xml.in.in:58
+#: desktop/cafe-desktop.xml.in.in:28
 msgid "Ubuntu CAFE Dark"
 msgstr "Ubuntu CAFE темний"
 
-#: desktop/cafe-desktop.xml.in.in:64
+#: desktop/cafe-desktop.xml.in.in:34
 msgid "Ubuntu CAFE Radioactive"
 msgstr "Ubuntu CAFE радіоактивний"
 
-#: desktop/cafe-desktop.xml.in.in:70
+#: desktop/cafe-desktop.xml.in.in:40
 msgid "Ubuntu CAFE Warm"
 msgstr "Ubuntu CAFE теплий"
 
-#. Translators: This is the name of a desktop background image that shows an
-#. orange/red flower.
+#. Translators: This is the name of a desktop background image that shows an orange/red flower.
 #. You might want to translate it into the equivalent words of your language
 #: nature/cafe-nature.xml.in.in:7
 msgid "Fresh Flower"
 msgstr "Жовтогаряча квітка"
 
-#. Translators: This is the name of a desktop background image that shows a
-#. green meadow.
+#. Translators: This is the name of a desktop background image that shows a green meadow.
 #. You might want to translate it into the equivalent words of your language
 #: nature/cafe-nature.xml.in.in:15
 msgid "Green Meadow"
@@ -141,3 +138,15 @@ msgstr "Сад"
 #: nature/cafe-nature.xml.in.in:75
 msgid "Wood"
 msgstr "Деревина"
+
+#~ msgid "Float into CAFE"
+#~ msgstr "Плавучий CAFE"
+
+#~ msgid "Green Traditional"
+#~ msgstr "Традиційний зелений"
+
+#~ msgid "CAFE Stripes Dark"
+#~ msgstr "CAFE темний зі смугами"
+
+#~ msgid "CAFE Stripes Light"
+#~ msgstr "CAFE світлий зі смугами"
