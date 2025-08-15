@@ -1,0 +1,557 @@
+/usr/bin/cafe-autogen
+[1mchecking for autoreconf >= 2.53...
+(B[m  testing autoreconf... found 2.72
+[1mchecking for cafe-common >= 0.0.1...
+(B[m  testing cafe-doc-common... found 2.0.0
+[1mChecking for forbidden M4 macros...
+(B[m[1mProcessing ./configure.ac
+(B[m[1mRunning cafe-doc-common...
+(B[m[1mRunning autoreconf...
+(B[mautoreconf: export WARNINGS=no-portability
+autoreconf: Entering directory '.'
+autoreconf: running: autopoint --force
+Copying file ABOUT-NLS
+Copying file config.rpath
+Creating directory m4
+Copying file m4/codeset.m4
+Copying file m4/extern-inline.m4
+Copying file m4/fcntl-o.m4
+Copying file m4/gettext.m4
+Copying file m4/glibc2.m4
+Copying file m4/glibc21.m4
+Copying file m4/iconv.m4
+Copying file m4/intdiv0.m4
+Copying file m4/intl.m4
+Copying file m4/intldir.m4
+Copying file m4/intlmacosx.m4
+Copying file m4/intmax.m4
+Copying file m4/inttypes-pri.m4
+Copying file m4/inttypes_h.m4
+Copying file m4/lcmessage.m4
+Copying file m4/lib-ld.m4
+Copying file m4/lib-link.m4
+Copying file m4/lib-prefix.m4
+Copying file m4/lock.m4
+Copying file m4/longlong.m4
+Copying file m4/nls.m4
+Copying file m4/po.m4
+Copying file m4/printf-posix.m4
+Copying file m4/progtest.m4
+Copying file m4/size_max.m4
+Copying file m4/stdint_h.m4
+Copying file m4/threadlib.m4
+Copying file m4/uintmax_t.m4
+Copying file m4/visibility.m4
+Copying file m4/wchar_t.m4
+Copying file m4/wint_t.m4
+Copying file m4/xsize.m4
+Copying file po/Makefile.in.in
+Copying file po/Makevars.template
+Copying file po/Rules-quot
+Copying file po/boldquot.sed
+Copying file po/en@boldquot.header
+Copying file po/en@quot.header
+Copying file po/insert-header.sin
+Copying file po/quot.sed
+Copying file po/remove-potcdate.sin
+autoreconf: running: aclocal --force -I m4 ${ACLOCAL_FLAGS}
+autoreconf: configure.ac: tracing
+autoreconf: configure.ac: not using Libtool
+autoreconf: configure.ac: not using Intltool
+autoreconf: configure.ac: not using Gtkdoc
+autoreconf: running: /usr/bin/autoconf --force
+autoreconf: configure.ac: not using Autoheader
+autoreconf: running: automake --add-missing --copy --force-missing
+configure.ac:8: installing './compile'
+configure.ac:8: installing './config.guess'
+configure.ac:8: installing './config.sub'
+configure.ac:5: installing './install-sh'
+configure.ac:5: installing './missing'
+Makefile.am: installing './INSTALL'
+autoreconf: Leaving directory '.'
+Skipping configure process.
+scan-build: Using '/usr/lib/llvm-19/bin/clang' for static analysis
+checking whether make supports nested variables... yes
+checking for a BSD-compatible install... /usr/bin/install -c
+checking whether sleep supports fractional seconds... yes
+checking filesystem timestamp resolution... 0.01
+checking whether build environment is sane... yes
+checking for a race-free mkdir -p... /usr/bin/mkdir -p
+checking for gawk... no
+checking for mawk... mawk
+checking whether make sets $(MAKE)... yes
+checking xargs -n works... yes
+checking whether UID '0' is supported by ustar format... yes
+checking whether GID '0' is supported by ustar format... yes
+checking how to create a ustar tar archive... gnutar
+checking for a sed that does not truncate output... /usr/bin/sed
+checking whether NLS is requested... yes
+checking for msgfmt... /usr/bin/msgfmt
+checking for gmsgfmt... /usr/bin/msgfmt
+checking for xgettext... /usr/bin/xgettext
+checking for msgmerge... /usr/bin/msgmerge
+checking whether make supports the include directive... yes (GNU style)
+checking for gcc... /usr/share/clang/scan-build-19/bin/../libexec/ccc-analyzer
+checking whether the C compiler works... yes
+checking for C compiler default output file name... a.out
+checking for suffix of executables... 
+checking whether we are cross compiling... no
+checking for suffix of object files... o
+checking whether the compiler supports GNU C... yes
+checking whether /usr/share/clang/scan-build-19/bin/../libexec/ccc-analyzer accepts -g... yes
+checking for /usr/share/clang/scan-build-19/bin/../libexec/ccc-analyzer option to enable C11 features... none needed
+checking whether /usr/share/clang/scan-build-19/bin/../libexec/ccc-analyzer understands -c and -o together... rm: cannot remove 'conftest.plist': Is a directory
+yes
+checking dependency style of /usr/share/clang/scan-build-19/bin/../libexec/ccc-analyzer... none
+checking build system type... x86_64-pc-linux-gnu
+checking host system type... x86_64-pc-linux-gnu
+checking for ld used by /usr/share/clang/scan-build-19/bin/../libexec/ccc-analyzer... /usr/bin/ld
+checking if the linker (/usr/bin/ld) is GNU ld... yes
+checking for shared library run path origin... done
+checking how to run the C preprocessor... /usr/share/clang/scan-build-19/bin/../libexec/ccc-analyzer -E
+checking for egrep -e... /usr/bin/grep -E
+checking for CFPreferencesCopyAppValue... no
+checking for CFLocaleCopyCurrent... no
+checking for GNU gettext in libc... yes
+checking whether to use NLS... yes
+checking where the gettext function comes from... libc
+checking whether to enable maintainer-specific portions of Makefiles... no
+checking that generated files are newer than configure... done
+configure: creating ./config.status
+config.status: creating Makefile
+config.status: creating abstract/Makefile
+config.status: creating desktop/Makefile
+config.status: creating nature/Makefile
+config.status: creating po/Makefile.in
+config.status: executing po-directories commands
+config.status: creating po/POTFILES
+config.status: creating po/Makefile
+config.status: executing depfiles commands
+scan-build: Analysis run complete.
+scan-build: Removing directory '/tmp/scan-build-2025-08-15-111106-7823-1' because it contains no reports.
+scan-build: No bugs found.
+scan-build: Using '/usr/lib/llvm-19/bin/clang' for static analysis
+Making all in po
+make[1]: Entering directory '/rootdir/po'
+make cafe-backgrounds.pot-update
+make[2]: Entering directory '/rootdir/po'
+sed -e '/^#/d' remove-potcdate.sin > t-remove-potcdate.sed
+mv t-remove-potcdate.sed remove-potcdate.sed
+package_gnu=""; \
+test -n "$package_gnu" || { \
+  if { if (LC_ALL=C find --version) 2>/dev/null | grep GNU >/dev/null; then \
+	 LC_ALL=C find -L .. -maxdepth 1 -type f \
+		       -size -10000000c -exec grep 'GNU cafe-backgrounds' \
+		       /dev/null '{}' ';' 2>/dev/null; \
+       else \
+	 LC_ALL=C grep 'GNU cafe-backgrounds' ../* 2>/dev/null; \
+       fi; \
+     } | grep -v 'libtool:' >/dev/null; then \
+     package_gnu=yes; \
+   else \
+     package_gnu=no; \
+   fi; \
+}; \
+if test "$package_gnu" = "yes"; then \
+  package_prefix='GNU '; \
+else \
+  package_prefix=''; \
+fi; \
+if test -n '' || test 'http://www.cafe-desktop.org' = '@'PACKAGE_BUGREPORT'@'; then \
+  msgid_bugs_address=''; \
+else \
+  msgid_bugs_address='http://www.cafe-desktop.org'; \
+fi; \
+case `/usr/bin/xgettext --version | sed 1q | sed -e 's,^[^0-9]*,,'` in \
+  '' | 0.[0-9] | 0.[0-9].* | 0.1[0-5] | 0.1[0-5].* | 0.16 | 0.16.[0-1]*) \
+    /usr/bin/xgettext --default-domain=cafe-backgrounds --directory=.. \
+      --add-comments=TRANSLATORS: --from-code=UTF-8 --keyword=_ --keyword=N_ --keyword=C_:1c,2 --keyword=NC_:1c,2 --keyword=g_dngettext:2,3 --add-comments  \
+      --files-from=./POTFILES.in \
+      --copyright-holder='CAFE Desktop Environment team' \
+      --msgid-bugs-address="$msgid_bugs_address" \
+    ;; \
+  *) \
+    /usr/bin/xgettext --default-domain=cafe-backgrounds --directory=.. \
+      --add-comments=TRANSLATORS: --from-code=UTF-8 --keyword=_ --keyword=N_ --keyword=C_:1c,2 --keyword=NC_:1c,2 --keyword=g_dngettext:2,3 --add-comments  \
+      --files-from=./POTFILES.in \
+      --copyright-holder='CAFE Desktop Environment team' \
+      --package-name="${package_prefix}cafe-backgrounds" \
+      --package-version='1.25.0' \
+      --msgid-bugs-address="$msgid_bugs_address" \
+    ;; \
+esac
+test ! -f cafe-backgrounds.po || { \
+  if test -f ./cafe-backgrounds.pot-header; then \
+    sed -e '1,/^#$/d' < cafe-backgrounds.po > cafe-backgrounds.1po && \
+    cat ./cafe-backgrounds.pot-header cafe-backgrounds.1po > cafe-backgrounds.po; \
+    rm -f cafe-backgrounds.1po; \
+  fi; \
+  if test -f ./cafe-backgrounds.pot; then \
+    sed -f remove-potcdate.sed < ./cafe-backgrounds.pot > cafe-backgrounds.1po && \
+    sed -f remove-potcdate.sed < cafe-backgrounds.po > cafe-backgrounds.2po && \
+    if cmp cafe-backgrounds.1po cafe-backgrounds.2po >/dev/null 2>&1; then \
+      rm -f cafe-backgrounds.1po cafe-backgrounds.2po cafe-backgrounds.po; \
+    else \
+      rm -f cafe-backgrounds.1po cafe-backgrounds.2po ./cafe-backgrounds.pot && \
+      mv cafe-backgrounds.po ./cafe-backgrounds.pot; \
+    fi; \
+  else \
+    mv cafe-backgrounds.po ./cafe-backgrounds.pot; \
+  fi; \
+}
+make[2]: Leaving directory '/rootdir/po'
+test ! -f ./cafe-backgrounds.pot || \
+  test -z "af.gmo am.gmo an.gmo ar.gmo as.gmo ast.gmo be.gmo bg.gmo bn.gmo bn_IN.gmo br.gmo bs.gmo ca.gmo ca@valencia.gmo cmn.gmo crh.gmo cs.gmo cy.gmo da.gmo de.gmo dz.gmo el.gmo en_AU.gmo en_CA.gmo en_GB.gmo eo.gmo es.gmo es_AR.gmo es_CO.gmo es_MX.gmo et.gmo eu.gmo fa.gmo fi.gmo fr.gmo fr_CA.gmo frp.gmo fur.gmo fy.gmo ga.gmo gl.gmo gu.gmo he.gmo hi.gmo hr.gmo hu.gmo hy.gmo id.gmo ie.gmo is.gmo it.gmo ja.gmo ka.gmo kk.gmo kn.gmo ko.gmo ku.gmo ku_IQ.gmo ky.gmo la.gmo lt.gmo lv.gmo mai.gmo mg.gmo mk.gmo ml.gmo mn.gmo mr.gmo ms.gmo nb.gmo nds.gmo ne.gmo nl.gmo nn.gmo oc.gmo or.gmo pa.gmo pl.gmo ps.gmo pt.gmo pt_BR.gmo ro.gmo ru.gmo rw.gmo si.gmo sk.gmo sl.gmo sq.gmo sr.gmo sr@latin.gmo sv.gmo ta.gmo te.gmo th.gmo tr.gmo ug.gmo uk.gmo ur.gmo uz.gmo vi.gmo zh_CN.gmo zh_HK.gmo zh_TW.gmo" || make af.gmo am.gmo an.gmo ar.gmo as.gmo ast.gmo be.gmo bg.gmo bn.gmo bn_IN.gmo br.gmo bs.gmo ca.gmo ca@valencia.gmo cmn.gmo crh.gmo cs.gmo cy.gmo da.gmo de.gmo dz.gmo el.gmo en_AU.gmo en_CA.gmo en_GB.gmo eo.gmo es.gmo es_AR.gmo es_CO.gmo es_MX.gmo et.gmo eu.gmo fa.gmo fi.gmo fr.gmo fr_CA.gmo frp.gmo fur.gmo fy.gmo ga.gmo gl.gmo gu.gmo he.gmo hi.gmo hr.gmo hu.gmo hy.gmo id.gmo ie.gmo is.gmo it.gmo ja.gmo ka.gmo kk.gmo kn.gmo ko.gmo ku.gmo ku_IQ.gmo ky.gmo la.gmo lt.gmo lv.gmo mai.gmo mg.gmo mk.gmo ml.gmo mn.gmo mr.gmo ms.gmo nb.gmo nds.gmo ne.gmo nl.gmo nn.gmo oc.gmo or.gmo pa.gmo pl.gmo ps.gmo pt.gmo pt_BR.gmo ro.gmo ru.gmo rw.gmo si.gmo sk.gmo sl.gmo sq.gmo sr.gmo sr@latin.gmo sv.gmo ta.gmo te.gmo th.gmo tr.gmo ug.gmo uk.gmo ur.gmo uz.gmo vi.gmo zh_CN.gmo zh_HK.gmo zh_TW.gmo
+make[2]: Entering directory '/rootdir/po'
+/usr/bin/msgmerge --update --quiet --lang=am am.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=af af.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ar ar.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=an an.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=as as.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ast ast.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=be be.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=bn bn.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=bg bg.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=bn_IN bn_IN.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=br br.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=bs bs.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ca ca.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ca@valencia ca@valencia.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=cmn cmn.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=crh crh.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=cs cs.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=cy cy.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=da da.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=de de.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=dz dz.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=el el.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=en_AU en_AU.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=en_GB en_GB.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=en_CA en_CA.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=es es.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=eo eo.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=es_AR es_AR.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=es_CO es_CO.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=es_MX es_MX.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=et et.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=eu eu.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=fa fa.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=fi fi.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=fr fr.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=frp frp.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=fr_CA fr_CA.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=fur fur.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=fy fy.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ga ga.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=gl gl.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=gu gu.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=he he.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=hi hi.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=hr hr.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=hu hu.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=id id.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=hy hy.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ie ie.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=is is.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=it it.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ka ka.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ja ja.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=kk kk.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ko ko.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=kn kn.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ku ku.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ku_IQ ku_IQ.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ky ky.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=la la.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=lv lv.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=lt lt.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=mai mai.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=mg mg.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=mk mk.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=mn mn.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ml ml.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=mr mr.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ms ms.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=nb nb.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ne ne.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=nds nds.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=nl nl.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=nn nn.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=oc oc.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=or or.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=pa pa.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=pt_BR pt_BR.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=pl pl.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=pt pt.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ps ps.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ro ro.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ru ru.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=sk sk.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=si si.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=rw rw.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=sl sl.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=sq sq.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=sr@latin sr@latin.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=sr sr.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=sv sv.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=te te.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ta ta.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=th th.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=tr tr.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ug ug.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=uk uk.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=ur ur.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=uz uz.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=vi vi.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=zh_CN zh_CN.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=zh_HK zh_HK.po cafe-backgrounds.pot
+/usr/bin/msgmerge --update --quiet --lang=zh_TW zh_TW.po cafe-backgrounds.pot
+rm -f af.gmo && /usr/bin/msgfmt -c --statistics --verbose -o af.gmo af.po
+rm -f am.gmo && /usr/bin/msgfmt -c --statistics --verbose -o am.gmo am.po
+af.po: 20 translated messages, 7 untranslated messages.
+am.po: 24 translated messages, 3 untranslated messages.
+rm -f ar.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ar.gmo ar.po
+rm -f an.gmo && /usr/bin/msgfmt -c --statistics --verbose -o an.gmo an.po
+rm -f ast.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ast.gmo ast.po
+rm -f as.gmo && /usr/bin/msgfmt -c --statistics --verbose -o as.gmo as.po
+ar.po: 20 translated messages, 7 untranslated messages.
+rm -f be.gmo && /usr/bin/msgfmt -c --statistics --verbose -o be.gmo be.po
+an.po: 17 translated messages, 10 untranslated messages.
+ast.po: rm -f bg.gmo && /usr/bin/msgfmt -c --statistics --verbose -o bg.gmo bg.po
+be.po: 20 translated messagesas.po: 20 translated messages, 7 untranslated messages.
+, 7 untranslated messages18 translated messages, 9 untranslated messages.
+.
+bg.po: 24 translated messages, 3 untranslated messages.
+rm -f bn.gmo && /usr/bin/msgfmt -c --statistics --verbose -o bn.gmo bn.po
+bn.po: 18 translated messages, 9 untranslated messages.
+rm -f bn_IN.gmo && /usr/bin/msgfmt -c --statistics --verbose -o bn_IN.gmo bn_IN.po
+rm -f bs.gmo && /usr/bin/msgfmt -c --statistics --verbose -o bs.gmo bs.po
+rm -f br.gmo && /usr/bin/msgfmt -c --statistics --verbose -o br.gmo br.po
+rm -f ca.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ca.gmo ca.po
+bn_IN.po: 18 translated messages, 9 untranslated messages.
+br.po: bs.po: 18 translated messages, 9 untranslated messages.
+20 translated messages, 7 untranslated messages.
+ca.po: 24 translated messages, 3 untranslated messages.
+rm -f ca@valencia.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ca@valencia.gmo ca@valencia.po
+rm -f cmn.gmo && /usr/bin/msgfmt -c --statistics --verbose -o cmn.gmo cmn.po
+ca@valencia.po: 24 translated messages, 3 untranslated messages.
+rm -f cs.gmo && /usr/bin/msgfmt -c --statistics --verbose -o cs.gmo cs.po
+rm -f crh.gmo && /usr/bin/msgfmt -c --statistics --verbose -o crh.gmo crh.po
+rm -f cy.gmo && /usr/bin/msgfmt -c --statistics --verbose -o cy.gmo cy.po
+cmn.po: 20 translated messages, 7 untranslated messages.
+cs.po: 24 translated messages, 3 untranslated messages.
+rm -f da.gmo && /usr/bin/msgfmt -c --statistics --verbose -o da.gmo da.po
+cy.po: 20 translated messages, 7 untranslated messages.
+crh.po: 1 translated message, 26 untranslated messages.
+da.po: 24 translated messages, 3 untranslated messages.
+rm -f de.gmo && /usr/bin/msgfmt -c --statistics --verbose -o de.gmo de.po
+rm -f dz.gmo && /usr/bin/msgfmt -c --statistics --verbose -o dz.gmo dz.po
+rm -f el.gmo && /usr/bin/msgfmt -c --statistics --verbose -o el.gmo el.po
+de.po: 24 translated messages, 3 untranslated messages.
+rm -f en_AU.gmo && /usr/bin/msgfmt -c --statistics --verbose -o en_AU.gmo en_AU.po
+dz.po: 2 translated messages, 25 untranslated messages.
+el.po: 24 translated messages, 3 untranslated messages.
+rm -f en_CA.gmo && /usr/bin/msgfmt -c --statistics --verbose -o en_CA.gmo en_CA.po
+rm -f en_GB.gmo && /usr/bin/msgfmt -c --statistics --verbose -o en_GB.gmo en_GB.po
+en_AU.po: 20 translated messages, 7 untranslated messages.
+en_CA.po: 2 translated messages, 25 untranslated messages.
+rm -f eo.gmo && /usr/bin/msgfmt -c --statistics --verbose -o eo.gmo eo.po
+en_GB.po: 24 translated messages, 3 untranslated messages.
+rm -f es_AR.gmo && /usr/bin/msgfmt -c --statistics --verbose -o es_AR.gmo es_AR.po
+rm -f es.gmo && /usr/bin/msgfmt -c --statistics --verbose -o es.gmo es.po
+eo.po: 24 translated messages, 3 untranslated messages.
+es_AR.po: 24 translated messages, 3 untranslated messages.
+rm -f es_MX.gmo && /usr/bin/msgfmt -c --statistics --verbose -o es_MX.gmo es_MX.po
+es.po: 24 translated messages, 3 untranslated messages.
+rm -f es_CO.gmo && /usr/bin/msgfmt -c --statistics --verbose -o es_CO.gmo es_CO.po
+rm -f et.gmo && /usr/bin/msgfmt -c --statistics --verbose -o et.gmo et.po
+es_MX.po: es_CO.po: 20 translated messages, 7 untranslated messages.
+rm -f eu.gmo && /usr/bin/msgfmt -c --statistics --verbose -o eu.gmo eu.po
+20 translated messages, 7 untranslated messages.
+et.po: 24 translated messages, 3 untranslated messages.
+rm -f fa.gmo && /usr/bin/msgfmt -c --statistics --verbose -o fa.gmo fa.po
+eu.po: 24 translated messages, 3 untranslated messages.
+rm -f fr.gmo && /usr/bin/msgfmt -c --statistics --verbose -o fr.gmo fr.po
+rm -f fi.gmo && /usr/bin/msgfmt -c --statistics --verbose -o fi.gmo fi.po
+fa.po: 20 translated messages, 7 untranslated messages.
+rm -f fr_CA.gmo && /usr/bin/msgfmt -c --statistics --verbose -o fr_CA.gmo fr_CA.po
+fr.po: 24 translated messages, 3 untranslated messages.
+fi.po: 24 translated messages, 3 untranslated messages.
+rm -f frp.gmo && /usr/bin/msgfmt -c --statistics --verbose -o frp.gmo frp.po
+rm -f fur.gmo && /usr/bin/msgfmt -c --statistics --verbose -o fur.gmo fur.po
+fr_CA.po: 1 translated message, 26 untranslated messages.
+frp.po: 11 translated messages, 16 untranslated messages.
+fur.po: 2 translated messages, 25 untranslated messages.
+rm -f ga.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ga.gmo ga.po
+rm -f fy.gmo && /usr/bin/msgfmt -c --statistics --verbose -o fy.gmo fy.po
+rm -f gl.gmo && /usr/bin/msgfmt -c --statistics --verbose -o gl.gmo gl.po
+rm -f gu.gmo && /usr/bin/msgfmt -c --statistics --verbose -o gu.gmo gu.po
+ga.po: 18 translated messages, 9 untranslated messages.
+rm -f he.gmo && /usr/bin/msgfmt -c --statistics --verbose -o he.gmo he.po
+gu.po: 18 translated messages, 9 untranslated messages.
+fy.po: 17 translated messages, 10 untranslated messages.
+gl.po: 24 translated messages, 3 untranslated messages.
+rm -f hi.gmo && /usr/bin/msgfmt -c --statistics --verbose -o hi.gmo hi.po
+he.po: 24 translated messages, 3 untranslated messages.
+rm -f hr.gmo && /usr/bin/msgfmt -c --statistics --verbose -o hr.gmo hr.po
+hi.po: rm -f hu.gmo && /usr/bin/msgfmt -c --statistics --verbose -o hu.gmo hu.po
+20 translated messages, 7 untranslated messages.
+rm -f hy.gmo && /usr/bin/msgfmt -c --statistics --verbose -o hy.gmo hy.po
+hr.po: 24 translated messages, 3 untranslated messages.
+rm -f id.gmo && /usr/bin/msgfmt -c --statistics --verbose -o id.gmo id.po
+hu.po: 24 translated messages, 3 untranslated messages.
+rm -f ie.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ie.gmo ie.po
+hy.po: 20 translated messages, 7 untranslated messages.
+rm -f is.gmo && /usr/bin/msgfmt -c --statistics --verbose -o is.gmo is.po
+id.po: rm -f it.gmo && /usr/bin/msgfmt -c --statistics --verbose -o it.gmo it.po
+24 translated messages, 3 untranslated messages.
+ie.po: 24 translated messages, 3 untranslated messages.
+rm -f ja.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ja.gmo ja.po
+is.po: 20 translated messages, 7 untranslated messages.
+it.po: 24 translated messages, 3 untranslated messages.
+rm -f ka.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ka.gmo ka.po
+ja.po: 24 translated messages, 3 untranslated messages.
+rm -f kk.gmo && /usr/bin/msgfmt -c --statistics --verbose -o kk.gmo kk.po
+rm -f kn.gmo && /usr/bin/msgfmt -c --statistics --verbose -o kn.gmo kn.po
+ka.po: 2 translated messages, 25 untranslated messagesrm -f ko.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ko.gmo ko.po
+rm -f ku.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ku.gmo ku.po
+.
+kk.po: 20 translated messages, 7 untranslated messages.
+kn.po: 18 translated messages, 9 untranslated messages.
+ko.po: 24 translated messages, 3 untranslated messages.
+ku.po: 0 translated messages, 27 untranslated messages.
+rm -f ku_IQ.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ku_IQ.gmo ku_IQ.po
+rm -f la.gmo && /usr/bin/msgfmt -c --statistics --verbose -o la.gmo la.po
+rm -f ky.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ky.gmo ky.po
+ku_IQ.po: 2 translated messages, 25 untranslated messages.
+rm -f lt.gmo && /usr/bin/msgfmt -c --statistics --verbose -o lt.gmo lt.po
+rm -f lv.gmo && /usr/bin/msgfmt -c --statistics --verbose -o lv.gmo lv.po
+ky.po: 20 translated messages, 7 untranslated messages.
+la.po: 1 translated message, 26 untranslated messagesrm -f mai.gmo && /usr/bin/msgfmt -c --statistics --verbose -o mai.gmo mai.po
+.
+lt.po: 24 translated messages, 3 untranslated messages.
+rm -f mg.gmo && /usr/bin/msgfmt -c --statistics --verbose -o mg.gmo mg.po
+mai.po: 1 translated message, 26 untranslated messages.
+lv.po: 20 translated messages, 7 untranslated messages.
+rm -f mk.gmo && /usr/bin/msgfmt -c --statistics --verbose -o mk.gmo mk.po
+rm -f ml.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ml.gmo ml.po
+mg.po: 17 translated messages, 10 untranslated messages.
+mk.po: 18 translated messages, 9 untranslated messages.
+rm -f mn.gmo && /usr/bin/msgfmt -c --statistics --verbose -o mn.gmo mn.po
+ml.po: rm -f mr.gmo && /usr/bin/msgfmt -c --statistics --verbose -o mr.gmo mr.po
+18 translated messages, 9 untranslated messages.
+rm -f ms.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ms.gmo ms.po
+mn.po: 20 translated messages, 7 untranslated messages.
+mr.po: 20 translated messages, 7 untranslated messages.
+rm -f nb.gmo && /usr/bin/msgfmt -c --statistics --verbose -o nb.gmo nb.po
+ms.po: rm -f nds.gmo && /usr/bin/msgfmt -c --statistics --verbose -o nds.gmo nds.po
+24 translated messages, 3 untranslated messages.
+nb.po: 24 translated messages, 3 untranslated messages.
+rm -f ne.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ne.gmo ne.po
+nds.po: 24 translated messages, 3 untranslated messages.
+rm -f nl.gmo && /usr/bin/msgfmt -c --statistics --verbose -o nl.gmo nl.po
+rm -f nn.gmo && /usr/bin/msgfmt -c --statistics --verbose -o nn.gmo nn.po
+ne.po: 2 translated messages, 25 untranslated messages.
+nl.po: 24 translated messages, 3 untranslated messages.
+rm -f oc.gmo && /usr/bin/msgfmt -c --statistics --verbose -o oc.gmo oc.po
+nn.po: 18 translated messages, 9 untranslated messages.
+rm -f or.gmo && /usr/bin/msgfmt -c --statistics --verbose -o or.gmo or.po
+rm -f pa.gmo && /usr/bin/msgfmt -c --statistics --verbose -o pa.gmo pa.po
+oc.po: 21 translated messages, 6 untranslated messages.
+or.po: 18 translated messages, 9 untranslated messages.
+pa.po: 18 translated messages, 9 untranslated messages.
+rm -f pl.gmo && /usr/bin/msgfmt -c --statistics --verbose -o pl.gmo pl.po
+rm -f ps.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ps.gmo ps.po
+rm -f pt_BR.gmo && /usr/bin/msgfmt -c --statistics --verbose -o pt_BR.gmo pt_BR.po
+rm -f pt.gmo && /usr/bin/msgfmt -c --statistics --verbose -o pt.gmo pt.po
+pl.po: 24 translated messages, 3 untranslated messages.
+ps.po: 2 translated messages, 25 untranslated messages.
+rm -f ro.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ro.gmo ro.po
+pt_BR.po: 24 translated messages, 3 untranslated messages.
+pt.po: 24 translated messages, 3 untranslated messages.
+ro.po: 20 translated messages, 7 untranslated messages.
+rm -f rw.gmo && /usr/bin/msgfmt -c --statistics --verbose -o rw.gmo rw.po
+rm -f ru.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ru.gmo ru.po
+rm -f sk.gmo && /usr/bin/msgfmt -c --statistics --verbose -o sk.gmo sk.po
+rw.po: 0 translated messages, 27 untranslated messages.
+rm -f si.gmo && /usr/bin/msgfmt -c --statistics --verbose -o si.gmo si.po
+ru.po: 24 translated messages, 3 untranslated messages.
+rm -f sl.gmo && /usr/bin/msgfmt -c --statistics --verbose -o sl.gmo sl.po
+sk.po: 24 translated messages, 3 untranslated messages.
+sl.po: 24 translated messages, 3 untranslated messages.
+si.po: 2 translated messages, 25 untranslated messages.
+rm -f sr.gmo && /usr/bin/msgfmt -c --statistics --verbose -o sr.gmo sr.po
+rm -f sq.gmo && /usr/bin/msgfmt -c --statistics --verbose -o sq.gmo sq.po
+rm -f sr@latin.gmo && /usr/bin/msgfmt -c --statistics --verbose -o sr@latin.gmo sr@latin.po
+sq.po: 17 translated messages, 10 untranslated messages.
+rm -f sv.gmo && /usr/bin/msgfmt -c --statistics --verbose -o sv.gmo sv.po
+rm -f ta.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ta.gmo ta.po
+sr@latin.po: 18 translated messages, 9 untranslated messages.
+sr.po: 24 translated messages, 3 untranslated messages.
+ta.po: 18 translated messages, 9 untranslated messages.
+rm -f te.gmo && /usr/bin/msgfmt -c --statistics --verbose -o te.gmo te.po
+sv.po: 24 translated messages, 3 untranslated messages.
+rm -f th.gmo && /usr/bin/msgfmt -c --statistics --verbose -o th.gmo th.po
+rm -f tr.gmo && /usr/bin/msgfmt -c --statistics --verbose -o tr.gmo tr.po
+te.po: 19 translated messages, 8 untranslated messages.
+tr.po: 24 translated messages, 3 untranslated messagesth.po: 18 translated messages.
+, 9 untranslated messages.
+rm -f ug.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ug.gmo ug.po
+rm -f uk.gmo && /usr/bin/msgfmt -c --statistics --verbose -o uk.gmo uk.po
+ug.po: rm -f ur.gmo && /usr/bin/msgfmt -c --statistics --verbose -o ur.gmo ur.po
+1 translated message, 26 untranslated messages.
+rm -f uz.gmo && /usr/bin/msgfmt -c --statistics --verbose -o uz.gmo uz.po
+rm -f vi.gmo && /usr/bin/msgfmt -c --statistics --verbose -o vi.gmo vi.po
+ur.po: 1 translated message, 26 untranslated messages.
+uk.po: 24 translated messages, 3 untranslated messages.
+vi.po: 20 translated messages, 7 untranslated messages.
+uz.po: 16 translated messages, 11 untranslated messages.
+rm -f zh_CN.gmo && /usr/bin/msgfmt -c --statistics --verbose -o zh_CN.gmo zh_CN.po
+rm -f zh_HK.gmo && /usr/bin/msgfmt -c --statistics --verbose -o zh_HK.gmo zh_HK.po
+rm -f zh_TW.gmo && /usr/bin/msgfmt -c --statistics --verbose -o zh_TW.gmo zh_TW.po
+zh_CN.po: 24 translated messages, 3 untranslated messages.
+zh_HK.po: 18 translated messages, 9 untranslated messages.
+zh_TW.po: 24 translated messages, 3 untranslated messages.
+make[2]: Leaving directory '/rootdir/po'
+touch stamp-po
+make[1]: Leaving directory '/rootdir/po'
+Making all in abstract
+make[1]: Entering directory '/rootdir/abstract'
+  GEN      cafe-abstract.xml.in
+  GEN      cafe-abstract.xml
+make[1]: Leaving directory '/rootdir/abstract'
+Making all in desktop
+make[1]: Entering directory '/rootdir/desktop'
+  GEN      cafe-desktop.xml.in
+  GEN      cafe-desktop.xml
+make[1]: Leaving directory '/rootdir/desktop'
+Making all in nature
+make[1]: Entering directory '/rootdir/nature'
+  GEN      cafe-nature.xml.in
+  GEN      cafe-nature.xml
+make[1]: Leaving directory '/rootdir/nature'
+make[1]: Entering directory '/rootdir'
+make[1]: Nothing to be done for 'all-am'.
+make[1]: Leaving directory '/rootdir'
+scan-build: Analysis run complete.
+scan-build: Removing directory '/rootdir/html-report/2025-08-15-111109-8713-1' because it contains no reports.
+scan-build: No bugs found.
+Making check in po
+make[1]: Entering directory '/rootdir/po'
+make[1]: Nothing to be done for 'check'.
+make[1]: Leaving directory '/rootdir/po'
+Making check in abstract
+make[1]: Entering directory '/rootdir/abstract'
+make[1]: Nothing to be done for 'check'.
+make[1]: Leaving directory '/rootdir/abstract'
+Making check in desktop
+make[1]: Entering directory '/rootdir/desktop'
+make[1]: Nothing to be done for 'check'.
+make[1]: Leaving directory '/rootdir/desktop'
+Making check in nature
+make[1]: Entering directory '/rootdir/nature'
+make[1]: Nothing to be done for 'check'.
+make[1]: Leaving directory '/rootdir/nature'
+make[1]: Entering directory '/rootdir'
+make[1]: Nothing to be done for 'check-am'.
+make[1]: Leaving directory '/rootdir'
