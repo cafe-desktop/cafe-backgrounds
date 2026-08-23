@@ -32,5 +32,3 @@ cafe-abstract.xml.in: cafe-abstract.xml.in.in Makefile
 
 MAINTAINERCLEANFILES = \
 	Makefile.in
-
--include $(top_srcdir)/git.mk

@@ -35,5 +35,3 @@ cafe-nature.xml.in: cafe-nature.xml.in.in Makefile
 
 MAINTAINERCLEANFILES = \
 	Makefile.in
-
--include $(top_srcdir)/git.mk

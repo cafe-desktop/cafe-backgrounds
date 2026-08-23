@@ -17,5 +17,3 @@ MAINTAINERCLEANFILES = \
 	install-sh \
 	missing \
 	mkinstalldirs
-
--include $(top_srcdir)/git.mk
