@@ -1,6 +1,6 @@
 AC_PREREQ(2.62)
 
-AC_INIT([cafe-backgrounds], [1.25.0], [http://www.cafe-desktop.org])
+AC_INIT([cafe-backgrounds], [2.0.0], [http://www.cafe-desktop.org])
 
 AM_INIT_AUTOMAKE([1.11 foreign no-dist-gzip dist-xz tar-ustar check-news])
 

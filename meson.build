@@ -1,5 +1,5 @@
 project('cafe-backgrounds',
-  version : '1.25.0',
+  version : '2.0.0',
   meson_version: '>= 0.41.0'
   )
 
