@@ -3,24 +3,9 @@
 ##########################################################
 requires:
   debian:
-    # Useful URL: https://github.com/cafe-desktop/debian-packages
-    # cafe B-D: cafe-common
-    - aptitude
-    - autopoint
-    - clang-tools
-    - expect #required for unbuffer
-    - git
-    - libglib2.0-dev
-    - make
-    - meson
-
-    #required for cafe-common
-    - autoconf
-    - gettext
 
 before_scripts:
-  - ./install-from-git https://github.com/cafe-desktop/cafe-common master
+  - ./debrepo-install
 
 build_scripts:
-  - ./make-scanbuild
-  - ./exit-warning
+  - ./build-debs https://github.com/cafe-desktop/debian-packages devel cafe-backgrounds
