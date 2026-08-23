@@ -17,8 +17,7 @@ which cafe-autogen || {
     exit 1
 }
 
-REQUIRED_AUTOMAKE_VERSION=1.9
-USE_CAFE2_MACROS=1
+REQUIRED_AUTOMAKE_VERSION=1.11
 USE_COMMON_DOC_BUILD=yes
 
 . cafe-autogen
